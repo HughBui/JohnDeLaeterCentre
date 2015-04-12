@@ -52,8 +52,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Noreen Evans
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -68,8 +67,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Noreen Evans
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -83,8 +81,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								A Prof Fred Jourdan
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -98,8 +95,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;"> 
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -113,8 +109,7 @@
 							<p style="float:right;  margin-top: 90px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -128,8 +123,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -143,8 +137,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -158,8 +151,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -173,8 +165,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -188,8 +179,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -203,8 +193,7 @@
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
-							<p style="color:white; display:none;">
-								<br/><br/><br/>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
