@@ -49,7 +49,7 @@
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY</a>
 							</h1>
-							<p style="padding-bottom:5px; padding-right:5px;">Dr Noreen Evans</p>
+							<p><br/><br/><br/><&nbsp;><&nbsp;><&nbsp;><&nbsp;><&nbsp;><&nbsp;>Dr Noreen Evans</p>
 						</div>
 					</div>
 				</li>
