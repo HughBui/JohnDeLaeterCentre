@@ -226,7 +226,7 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<div class="wrapper footer">
+		<div class="">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul style="float:right;">
 			
