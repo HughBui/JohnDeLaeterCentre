@@ -227,13 +227,13 @@
 
 	<footer>
 	
-		<div style="float:left;">
+		<div style="float:left; background: #303030;">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
 					<a href="#">SCIENCE LINKS</a><br/>
 					<a href="#">BOARD OF DIRECTORS</a><br/>
 		</div>
-		<div style="float:left;">
+		<div style="float:left; background: #303030;">
 					<p>Contact to us Via social:</p>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
