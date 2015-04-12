@@ -3,22 +3,20 @@
 <head>
 	<title>La Casa - Real Estate HTML5 Home Page Template</title>
 	<meta charset="utf-8">
-	<meta name="author" content="pixelhint.com">
-	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 	
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/responsive.css">
 
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
+	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
 </head>
 <body>
 
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#"><img src="img/logo.png" class="logo" alt="" titl=""/></a>
+				<a href="#"><img src="<?php bloginfostylesheet_directory; ?>/img/logo.png" class="logo" alt="" titl=""/></a>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
@@ -45,7 +43,7 @@
 			<ul class="properties_list">
 				<li>
 					<a href="#">
-						<img src="img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -57,7 +55,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -69,7 +67,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">
@@ -81,7 +79,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -93,7 +91,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -105,7 +103,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">
@@ -117,7 +115,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -129,7 +127,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -141,7 +139,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">
