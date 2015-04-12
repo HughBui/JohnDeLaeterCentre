@@ -241,7 +241,7 @@
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 				</td>
-				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg" style="float:right;"/></td>
+				
 			</tr>
 		</table>
 	</footer><!--  end footer  -->
