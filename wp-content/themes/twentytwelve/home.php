@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>La Casa - Real Estate HTML5 Home Page Template</title>
+	<title>John de Laeter Centre</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 	
@@ -225,7 +225,7 @@
 		</div>
 	</section>	<!--  end listing section  -->
 
-	<footer style="height:300px;">
+	<footer>
 		<div class="wrapper footer">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul style="float:right;">
@@ -249,7 +249,7 @@
 		</div>
 
 		<div class="copyrights">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left;">
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:50px;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
 	</footer><!--  end footer  -->

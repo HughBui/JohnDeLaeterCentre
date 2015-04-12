@@ -595,6 +595,7 @@ header nav .login_btn:hover{
 footer{
     padding-top: 100px;
     background: #303030;
+	height: 200px;
 }
 
 footer .footer > ul{
