@@ -207,9 +207,9 @@
 		$(".property_details").hover(
 		  function() {
 			var color = $(".property_details").css("border-bottom-color");
-			console.log(color);
+			$(".property_details").css('background-color',color); 
 		  }, function() {
-			console.log("out");
+			$(".property_details").css('background-color','white'); 
 		  }
 		);
 	</script>
