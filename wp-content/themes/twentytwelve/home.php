@@ -7,7 +7,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/reset.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/responsive.css">
-	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/main.css">
+
 
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
