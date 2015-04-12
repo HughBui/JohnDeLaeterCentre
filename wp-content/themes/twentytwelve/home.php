@@ -115,11 +115,11 @@
 								<a href="#">ELECTRON MICROSCOPY AND X-RAY ANALYSIS</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -131,11 +131,11 @@
 								<a href="#">SHRIMP(Sensitive High Resolution Ion Micro Probe)</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -163,11 +163,11 @@
 								<a href="#">TIMS (Thermal Ionization Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -179,11 +179,11 @@
 								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -195,11 +195,11 @@
 								<a href="#">TRACE (Trace Research Advanced Clean Environment)</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -211,11 +211,11 @@
 								<a href="#">SIRMS (Stable Isotope Ratio Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
