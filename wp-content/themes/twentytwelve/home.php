@@ -16,7 +16,7 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<img src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
+				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
