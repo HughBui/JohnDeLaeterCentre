@@ -225,7 +225,7 @@
 		</div>
 	</section>	<!--  end listing section  -->
 
-	<div style="width:100%; background: #303030;">
+	<div style="width:100%; height:300px; background: #303030;">
 		<div style="float:left;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 		</div>
