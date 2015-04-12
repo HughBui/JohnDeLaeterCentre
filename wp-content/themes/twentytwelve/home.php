@@ -14,7 +14,7 @@
 </head>
 <body>
 
-	<section class="hero" style="height:300px;">
+	<section class="hero" style="height:500px;">
 		<header>
 			<div class="wrapper">
 				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>

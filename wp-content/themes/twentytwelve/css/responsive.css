@@ -204,8 +204,14 @@ header nav .login_btn:hover{
 /*  Hero Section  */
 
 .hero{
-    background-color:red;
-	height: 200px;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background: url('../img/hero.jpg') no-repeat bottom center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .hero .caption{
@@ -219,8 +225,8 @@ header nav .login_btn:hover{
 
 .hero .caption h2{
     color: #fff;
-    font-family: "lato-regular", Helvetica, Arial, sans-serif;
-    font-size: 30px;
+    font-family: "p22_corinthia", Helvetica, Arial, sans-serif;
+    font-size: 100px;
     font-weight: lighter;
     margin: 0;
     position: relative;
