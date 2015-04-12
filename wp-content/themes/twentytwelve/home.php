@@ -44,7 +44,7 @@
 					<a href="#">
 						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
-					<span class="price">$2500</span>
+					<span><b>K-AR GEOCHRONOLOGY</b></span>
 					<div class="property_details">
 						<h1>
 							<a href="#">Fuisque dictum tortor at purus libero</a>
