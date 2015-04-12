@@ -13,7 +13,7 @@
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
 	
 	<script>
-		$( ".property_details" ).hover(
+		$(".property_details").hover(
 		  function() {
 			alert("dsadsa");
 			console.log("in");
