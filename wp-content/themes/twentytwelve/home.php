@@ -41,7 +41,7 @@
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:300px; border-bottom: 5px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 5px solid #95badf;">
 						<h1>
 							<a href="#">Fuisque dictum tortor at purus libero</a>
 						</h1>
