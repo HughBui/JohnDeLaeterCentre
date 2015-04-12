@@ -226,7 +226,7 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<div style="float:left;"><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></div>
+	
 		<div style="float:left;">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
