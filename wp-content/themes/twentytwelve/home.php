@@ -13,16 +13,7 @@
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
 	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	
-	<script>
-		$(".property_details").hover(
-		  function() {
-			alert("dsadsa");
-			console.log("in");
-		  }, function() {
-			console.log("out");
-		  }
-		);
-	</script>
+	
 </head>
 <body>
 
@@ -212,5 +203,15 @@
 		</div>
 	</footer><!--  end footer  -->
 	
+	<script>
+		$(".property_details").hover(
+		  function() {
+			alert("dsadsa");
+			console.log("in");
+		  }, function() {
+			console.log("out");
+		  }
+		);
+	</script>
 </body>
 </html>
