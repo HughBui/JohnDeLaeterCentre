@@ -227,15 +227,10 @@
 
 	<footer>
 		<div class="wrapper footer">
-			
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul style="float:right;">
-				<li class="links">
-					<ul>
-						<li><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></li>
-					</ul>
-				</li>
-				
-				<li class="links">
+			
+				<li>
 					<ul>
 						<li><a href="#">STAFF PORTAL</a></li>
 						<li><a href="#">LINKS</a></li>
@@ -243,7 +238,7 @@
 						<li><a href="#">BOARD OF DIRECTORS</a></li>
 					</ul>
 				</li>
-				<li class="about">
+				<li>
 					<p>Contact to us Via social:</p>
 					<ul>
 						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a></li>
@@ -254,7 +249,7 @@
 			</ul>
 		</div>
 
-		<div class="copyrights">
+		<div class="">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:50px;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
