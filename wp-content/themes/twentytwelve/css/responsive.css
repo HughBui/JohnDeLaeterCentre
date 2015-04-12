@@ -965,7 +965,7 @@ footer .copyrights a.ph_link{
         padding-right: 0!important;
     }
 
-    footer .footer > ul > li.links,
+    /*footer .footer > ul > li.links,
     footer .footer > ul > li.about{
         float: none;
         width: 100%!important;
@@ -980,5 +980,5 @@ footer .copyrights a.ph_link{
 
     footer .footer > ul > li.links{
         border-bottom: 1px solid #82abd4;
-    }
+    }*/
 }
