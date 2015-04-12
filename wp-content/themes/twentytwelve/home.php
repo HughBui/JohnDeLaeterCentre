@@ -226,24 +226,24 @@
 	</section>	<!--  end listing section  -->
 
 	<div style="width:100%; overflow: hidden; background: #303030;">
-		<div style="float:left; margin-left: 200px;">
+		<div style="float:left; margin-left: 20%;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 		</div>
-		<div style="float:left; margin-left: 200px; margin-top: 50px; background: #303030;">
-					<a href="#">STAFF PORTAL</a><br/>
-					<a href="#">LINKS</a><br/>
-					<a href="#">SCIENCE LINKS</a><br/>
-					<a href="#">BOARD OF DIRECTORS</a><br/>
+		<div style="float:left; margin-left: 20%; margin-top: 50px; background: #303030;">
+					<a href="#" style="text-decoration: none;">STAFF PORTAL</a><br/>
+					<a href="#" style="text-decoration: none;">LINKS</a><br/>
+					<a href="#" style="text-decoration: none;">SCIENCE LINKS</a><br/>
+					<a href="#" style="text-decoration: none;">BOARD OF DIRECTORS</a><br/>
 		</div>
-		<div style="float:left; margin-left: 200px; margin-top: 50px; background: #303030;">
-					<p>Contact to us Via social:</p>
+		<div style="float:left; margin-left: 20%; margin-top: 50px; background: #303030;">
+					<p style="color:white">Contact to us Via social:</p>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 		</div>
 	</div><!--  end footer  -->
 	<div style="width:100%; overflow: hidden; background: #242424;">
-		<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:200px;">
+		<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:20%;">
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 	</div>
 	
