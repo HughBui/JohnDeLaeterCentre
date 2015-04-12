@@ -226,7 +226,7 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<table style="width:100%; border:1px">
+		<table style="width:100%; border:1px solid black;">
 			<tr>
 				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></td>
 				<td>
