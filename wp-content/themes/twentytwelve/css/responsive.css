@@ -518,10 +518,9 @@ header nav .login_btn:hover{
 }
 
 .listings ul li:hover .property_details{
-    border-bottom: 1px solid #95badf;
+    /*border-bottom: 1px solid #95badf;
     border-left: 1px solid #95badf;
-    border-right: 1px solid #95badf;
-	background-color:red;
+    border-right: 1px solid #95badf;*/
 }
 
 .listings ul li .property_details h1{
