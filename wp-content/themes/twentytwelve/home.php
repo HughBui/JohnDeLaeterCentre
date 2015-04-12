@@ -113,8 +113,7 @@
 							<h1>
 								<a href="#">ELECTRON MICROSCOPY AND X-RAY ANALYSIS</a>
 							</h1>
-							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/>
+							<p style="float:right;  margin-top: 100px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
