@@ -196,8 +196,14 @@ header nav .login_btn:hover{
 /*  Hero Section  */
 
 .hero{
+    width: 100%;
     height: 300px;
+    position: relative;
     background: url('../img/hero.jpg') no-repeat bottom center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .hero .caption{
