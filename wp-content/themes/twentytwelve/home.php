@@ -226,7 +226,7 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<div class="">
+		<div style="position:absolute; bottom:0px; height:300px; background-color:red">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul style="float:right;">
 			
@@ -249,7 +249,7 @@
 			</ul>
 		</div>
 
-		<div class="">
+		<div style="position:absolute; bottom:0px; height:100px; background-color:blue">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:50px;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
