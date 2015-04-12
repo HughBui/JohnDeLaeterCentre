@@ -204,14 +204,16 @@
 	</footer><!--  end footer  -->
 	
 	<script>
-		$(".property_details").hover(
-		  function() {
-			var color = $(".property_details").css("border-bottom-color");
-			$(".property_details").css('background-color',color); 
-		  }, function() {
-			$(".property_details").css('background-color','white'); 
-		  }
-		);
+		$('.property_details').each(function(i, obj) {
+			obj.hover(
+			  function() {
+				var color = obj.css("border-bottom-color");
+				obj.css('background-color',color); 
+			  }, function() {
+				obj.css('background-color','white'); 
+			  }
+			);
+		});
 	</script>
 </body>
 </html>
