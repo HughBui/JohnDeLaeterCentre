@@ -227,22 +227,18 @@
 
 	<footer>
 		<div style="float:left;"><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></div>
-		<table style="float:right;">
-			<tr>
-				<td style="margin-top:-50px;">
+		<div style="float:left;">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
 					<a href="#">SCIENCE LINKS</a><br/>
 					<a href="#">BOARD OF DIRECTORS</a><br/>
-				</td>
-				<td style="margin-top:-50px;">
+		</div>
+		<div style="float:left;">
 					<p>Contact to us Via social:</p>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
-				</td>
-			</tr>
-		</table>
+		</div>
 	</footer><!--  end footer  -->
 	
 	<script>
