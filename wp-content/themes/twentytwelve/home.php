@@ -216,15 +216,15 @@
 
 	<div style="width:100%; overflow: hidden; background: #303030;">
 		<div style="float:left; margin-left: 10%;">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
-			
-			<div style="float:right; margin-right: -50px; margin-top: 50px; background: #303030; font-family: 'lato-regular', Helvetica, Arial, sans-serif; font-size: 15px;">
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>			
+		</div>
+		
+		<div style="float:left; margin-left: 10%; margin-top: 50px; background: #303030; font-family: 'lato-regular', Helvetica, Arial, sans-serif; font-size: 15px;">
 					<a href="#" style="text-decoration: none;">STAFF PORTAL</a><br/>
 					<a href="#" style="text-decoration: none;">LINKS</a><br/>
 					<a href="#" style="text-decoration: none;">SCIENCE LINKS</a><br/>
 					<a href="#" style="text-decoration: none;">BOARD OF DIRECTORS</a><br/>
 			</div>
-		</div>
 		
 		<div style="float:left; margin-left: 10%; margin-top: 50px; background: #303030;">
 					<p style="color:white">Contact to us Via social:</p>
