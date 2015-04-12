@@ -125,7 +125,7 @@
 							<h1>
 								<a href="#">SHRIMP(Sensitive High Resolution Ion Micro Probe)</a>
 							</h1>
-							<p style="float:right;" margin-top: 90px;>
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
