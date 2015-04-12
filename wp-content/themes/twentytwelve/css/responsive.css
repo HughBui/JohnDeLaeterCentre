@@ -204,8 +204,8 @@ header nav .login_btn:hover{
 /*  Hero Section  */
 
 .hero{
-    height: 200px;
     background-color:red;
+	height: 200px;
 }
 
 .hero .caption{
