@@ -248,7 +248,7 @@
 			</ul>
 		</div>
 
-		<div class="copyrights wrapper">
+		<div class="copyrights">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/>
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>

@@ -662,7 +662,7 @@ footer ul li.about > ul > li:last-child{
 }
 
 footer ul li.about > ul > li a{
-    background: url('../img/social_media.png') no-repeat;
+    /*background: url('../img/social_media.png') no-repeat;*/
 }
 
 footer ul li.about > ul > li a.facebook{
