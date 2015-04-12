@@ -32,7 +32,7 @@
 
 			<section class="caption" style="margin-top:20px;">
 				<h2 class="caption">OUR FACILITIES</h2>
-				<h3 class="properties" style="max-width:800px;">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing environment we live in and the nature and origin of resources we depend on.</h3>
+				<span style="max-width:800px;"><h3 class="properties">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing environment we live in and the nature and origin of resources we depend on.</h3></span>
 			</section>
 	</section><!--  end hero section  --> 
 
