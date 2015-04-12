@@ -227,8 +227,14 @@
 
 	<footer>
 		<div class="wrapper footer">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
+			
 			<ul style="float:right;">
+				<li class="links">
+					<ul>
+						<li><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></li>
+					</ul>
+				</li>
+				
 				<li class="links">
 					<ul>
 						<li><a href="#">STAFF PORTAL</a></li>
