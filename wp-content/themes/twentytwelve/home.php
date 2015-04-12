@@ -240,10 +240,9 @@
 				<li class="about">
 					<p>Contact to us Via social:</p>
 					<ul>
-						<li><a href="http://facebook.com/pixelhint" class="facebook" target="_blank"></a></li>
-						<li><a href="http://twitter.com/pixelhint" class="twitter" target="_blank"></a></li>
-						<li><a href="http://plus.google.com/+Pixelhint" class="google" target="_blank"></a></li>
-						<li><a href="#" class="skype"></a></li>
+						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a></li>
+						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a></li>
+						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a></li>
 					</ul>
 				</li>
 			</ul>
@@ -251,7 +250,7 @@
 
 		<div class="copyrights wrapper">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/>
-
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
 	</footer><!--  end footer  -->
 	
