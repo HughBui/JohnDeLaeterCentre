@@ -225,17 +225,17 @@
 		</div>
 	</section>	<!--  end listing section  -->
 
-	<div style="width:100%; height:300px; background: #303030;">
-		<div style="float:left;">
+	<div style="width:100%; height:100px; background: #303030;">
+		<div style="float:left; margin-left: 100px;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 		</div>
-		<div style="float:left; background: #303030;">
+		<div style="float:left; margin-left: 100px; background: #303030;">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
 					<a href="#">SCIENCE LINKS</a><br/>
 					<a href="#">BOARD OF DIRECTORS</a><br/>
 		</div>
-		<div style="float:right; background: #303030;">
+		<div style="float:left; margin-left: 100px; background: #303030;">
 					<p>Contact to us Via social:</p>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
