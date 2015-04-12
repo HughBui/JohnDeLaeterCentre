@@ -7,6 +7,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/reset.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/main.css">
 
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
@@ -31,6 +32,7 @@
 
 			<section class="caption">
 				<h2 class="caption">Our Facilities</h2>
+				<h3 class="properties">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing environment we live in and the nature and origin of resources we depend on.</h3>
 				<h3 class="properties">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing environment we live in and the nature and origin of resources we depend on.</h3>
 			</section>
 	</section><!--  end hero section  --> 
