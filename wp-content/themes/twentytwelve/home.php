@@ -218,7 +218,7 @@
 		<div style="float:left; margin-left: 10%;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			
-			<div style="float:right; margin-right: -50px; margin-top: 50px; background: #303030; font-family: 'lato-regular', Helvetica, Arial, sans-serif; text-size: 15px;">
+			<div style="float:right; margin-right: -50px; margin-top: 50px; background: #303030; font-family: 'lato-regular', Helvetica, Arial, sans-serif; font-size: 15px;">
 					<a href="#" style="text-decoration: none;">STAFF PORTAL</a><br/>
 					<a href="#" style="text-decoration: none;">LINKS</a><br/>
 					<a href="#" style="text-decoration: none;">SCIENCE LINKS</a><br/>
