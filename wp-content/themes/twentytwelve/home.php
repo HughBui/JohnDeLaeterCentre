@@ -64,14 +64,14 @@
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
-								<a href="#">(U-TH)/HE</a>
+								<a href="#">(U-TH)/HE<br/>&nbsp;</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -80,14 +80,14 @@
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #52bd53;">
 						<div>
 							<h1>
-								<a href="#">ARGON ISOTOPE</a>
+								<a href="#">ARGON ISOTOPE<br/>&nbsp;</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								A Prof Fred Jourdan
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -96,14 +96,14 @@
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #a5bb59;">
 						<div>
 							<h1>
-								<a href="#">ORGANIC GEOCHEMISTRY</a>
+								<a href="#">ORGANIC GEOCHEMISTRY<br/>&nbsp;</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
