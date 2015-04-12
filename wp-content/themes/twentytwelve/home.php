@@ -61,99 +61,164 @@
 					</div>
 				</li>
 				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$1000</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$500</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$2500</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$1000</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$500</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$2500</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_2.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$1000</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
-				</li>
-				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_3.jpg" alt="" title="" class="property_img"/>
-					</a>
-					<span class="price">$500</span>
-					<div class="property_details">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
+					</div>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
+					</div>
+				</li><li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p style="float:right;">
+								<br/><br/><br/><br/><br/><br/><br/><br/>
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none;">
+								<br/><br/><br/><br/><br/>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
 					</div>
 				</li>
 			</ul>
