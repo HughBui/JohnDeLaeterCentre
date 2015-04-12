@@ -699,8 +699,8 @@ footer .copyrights{
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 14px;
     letter-spacing: .5px;
-    border-top: 1px solid #82abd4;
 	background: #242424;
+	width:100%;
 }
 
 footer .copyrights a.ph_link{

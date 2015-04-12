@@ -227,6 +227,7 @@
 
 	<footer>
 		<div class="wrapper footer">
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul>
 				<li class="links">
 					<ul>
@@ -249,7 +250,8 @@
 		</div>
 
 		<div class="copyrights wrapper">
-
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/>
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
 	</footer><!--  end footer  -->
 	
