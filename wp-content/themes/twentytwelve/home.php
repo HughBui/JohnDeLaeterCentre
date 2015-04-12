@@ -49,7 +49,7 @@
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
 							</h1>
-							<p style="position: absolute; bottom:10px; right: 10px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
@@ -65,7 +65,7 @@
 							<h1>
 								<a href="#">(U-TH)/HE<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
@@ -80,7 +80,7 @@
 							<h1>
 								<a href="#">ARGON ISOTOPE<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								A Prof Fred Jourdan
 							</p>
 							<p style="color:white; display:none;">
@@ -95,7 +95,7 @@
 							<h1>
 								<a href="#">ORGANIC GEOCHEMISTRY<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;"> 
+							<p style="position: absolute; bottom:20px; right: 20px;"> 
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
@@ -140,7 +140,7 @@
 							<h1>
 								<a href="#">SAXS (Small Angle X-ray Scattering)<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
@@ -155,7 +155,7 @@
 							<h1>
 								<a href="#">TIMS (Thermal Ionization Mass Spectrometry)</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
@@ -170,7 +170,7 @@
 							<h1>
 								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
@@ -185,7 +185,7 @@
 							<h1>
 								<a href="#">TRACE (Trace Research Advanced Clean Environment)</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
@@ -200,7 +200,7 @@
 							<h1>
 								<a href="#">SIRMS (Stable Isotope Ratio Mass Spectrometry)</a>
 							</h1>
-							<p style="float:right; margin-top: 90px;">
+							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
