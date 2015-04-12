@@ -594,7 +594,7 @@ header nav .login_btn:hover{
 /*  footer  */
 footer{
     padding-top: 100px;
-    background: #95badf;
+    background: #303030;
 }
 
 footer .footer > ul{
@@ -700,6 +700,7 @@ footer .copyrights{
     font-size: 14px;
     letter-spacing: .5px;
     border-top: 1px solid #82abd4;
+	background: #242424;
 }
 
 footer .copyrights a.ph_link{
