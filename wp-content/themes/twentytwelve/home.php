@@ -11,6 +11,16 @@
 
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
+	
+	<script>
+		$( ".property_details" ).hover(
+		  function() {
+			console.log("in");
+		  }, function() {
+			console.log("out");
+		  }
+		);
+	</script>
 </head>
 <body>
 
