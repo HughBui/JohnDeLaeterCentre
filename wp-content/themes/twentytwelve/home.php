@@ -226,33 +226,25 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<div style="position:absolute; bottom:0px; height:300px; background-color:red">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
-			<ul style="float:right;">
-			
-				<li>
-					<ul>
-						<li><a href="#">STAFF PORTAL</a></li>
-						<li><a href="#">LINKS</a></li>
-						<li><a href="#">SCIENCE LINKS</a></li>
-						<li><a href="#">BOARD OF DIRECTORS</a></li>
-					</ul>
-				</li>
-				<li>
+		<table>
+			<tr>
+				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></td>
+				<td>
+					<a href="#">STAFF PORTAL</a>
+					<a href="#">LINKS</a>
+					<a href="#">SCIENCE LINKS</a>
+					<a href="#">BOARD OF DIRECTORS</a>
+				</td>
+				<td>
 					<p>Contact to us Via social:</p>
 					<ul>
 						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a></li>
 						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a></li>
 						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a></li>
 					</ul>
-				</li>
-			</ul>
-		</div>
-
-		<div style="position:absolute; bottom:0px; height:100px; background-color:blue">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:50px;">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
-		</div>
+				</td>
+			</tr>
+		</table>
 	</footer><!--  end footer  -->
 	
 	<script>
