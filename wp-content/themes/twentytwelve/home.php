@@ -24,6 +24,8 @@
 						<li><a href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
+						<li><a href="#">Research</a></li>
+						<li><a href="#">Research</a></li>
 					</ul>
 					<a href="#" class="login_btn">Contact</a>
 				</nav>
