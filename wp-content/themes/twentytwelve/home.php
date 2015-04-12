@@ -16,17 +16,15 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#">JOHN DE LAETER\nCENTRE</a>
+				<img src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
-						<li><a href="#">Buy</a></li>
-						<li><a href="#">Rent</a></li>
-						<li><a href="#">Sell</a></li>
-						<li><a href="#">About</a></li>
-						<li><a href="#">Contact</a></li>
+						<li><a href="#">Facilities</a></li>
+						<li><a href="#">Instruments</a></li>
+						<li><a href="#">Research</a></li>
 					</ul>
-					<a href="#" class="login_btn">Login</a>
+					<a href="#" class="login_btn">Contact</a>
 				</nav>
 			</div>
 		</header><!--  end header section  -->
