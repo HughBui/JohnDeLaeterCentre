@@ -226,9 +226,9 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<table style="width:100%; border:1px solid black;" >
+		<div style="float:left;"><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></div>
+		<table style="float:right;">
 			<tr>
-				<td valign="middle"><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></td>
 				<td style="margin-top:-50px;">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
