@@ -47,7 +47,7 @@
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
