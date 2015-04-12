@@ -50,7 +50,7 @@
 								<a href="#">K-AR GEOCHRONOLOGY</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Noreen Evans
 							</p>
 							<p style="display:none;">
@@ -218,10 +218,10 @@
 			  function() {
 				var color = $(this).css("border-bottom-color");
 				$(this).css('background-color',color); 
-				$(this).children("p").toggle();
+				$(this).find("p").toggle();
 			  }, function() {
 				$(this).css('background-color','white'); 
-				$(this).children("p").toggle();
+				$(this).find("p").toggle();
 			  }
 			);
 		});
