@@ -49,8 +49,7 @@
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/>
+							<p style="float:right; margin-bottom: 5px;">
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
@@ -229,7 +228,7 @@
 		<div style="float:left; margin-left: 10%;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			
-			<div style="float:left; margin-left: 10px; margin-top: 50px; background: #303030;">
+			<div style="float:right; margin-right: -10px; margin-top: 50px; background: #303030;">
 					<a href="#" style="text-decoration: none;">STAFF PORTAL</a><br/>
 					<a href="#" style="text-decoration: none;">LINKS</a><br/>
 					<a href="#" style="text-decoration: none;">SCIENCE LINKS</a><br/>
