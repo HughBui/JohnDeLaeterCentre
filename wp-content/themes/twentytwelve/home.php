@@ -206,7 +206,8 @@
 	<script>
 		$(".property_details").hover(
 		  function() {
-			console.log("in");
+			var color = $(".property_details").css("border-bottom-color");
+			console.log(color);
 		  }, function() {
 			console.log("out");
 		  }
