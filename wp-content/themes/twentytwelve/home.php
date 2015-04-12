@@ -41,8 +41,7 @@
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<span><b>K-AR GEOCHRONOLOGY</b></span>
-					<div class="property_details">
+					<div class="property_details" style="height:300px; border-bottom: 1px solid #95badf;">
 						<h1>
 							<a href="#">Fuisque dictum tortor at purus libero</a>
 						</h1>
