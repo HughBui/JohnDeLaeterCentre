@@ -45,9 +45,12 @@
 			<ul class="properties_list">
 				<li>
 					<div class="property_details" style="height:200px; border-bottom: 5px solid #95badf;">
-						<h1>
-							<a href="#">Fuisque dictum tortor at purus libero</a>
-						</h1>
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY</a>
+							</h1>
+							<p>Dr Noreen Evans</p>
+						</div>
 					</div>
 				</li>
 				<li>
@@ -209,7 +212,6 @@
 			  function() {
 				var color = $(this).css("border-bottom-color");
 				$(this).css('background-color',color); 
-				console.log(color);
 			  }, function() {
 				$(this).css('background-color','white'); 
 			  }
