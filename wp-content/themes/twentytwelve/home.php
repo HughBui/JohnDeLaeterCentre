@@ -44,7 +44,7 @@
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY</a>
@@ -61,10 +61,10 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">(U-TH)/HE</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
@@ -77,14 +77,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #52bd53;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">ARGON ISOTOPE</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								A Prof Fred Jourdan
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -93,14 +93,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #a5bb59;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">ORGANIC GEOCHEMISTRY</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -109,14 +109,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #d6c91a;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">ELECTRON MICROSCOPY AND X-RAY ANALYSIS</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -125,14 +125,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #c59e25;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">SHRIMP(Sensitive High Resolution Ion Micro Probe)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -141,14 +141,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #ba694e;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">SAXS (Small Angle X-ray Scattering)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -157,14 +157,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #d70021;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">TIMS (Thermal Ionization Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -173,14 +173,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #d92fb6;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -189,14 +189,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #8d54bd;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">TRACE (Trace Research Advanced Clean Environment)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -205,14 +205,14 @@
 						</div>
 					</div>
 				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #95badf;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #538ac0;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY</a>
+								<a href="#">SIRMS (Stable Isotope Ratio Mass Spectrometry)</a>
 							</h1>
 							<p style="float:right;">
 								<br/><br/><br/><br/><br/><br/><br/><br/>
-								Dr Noreen Evans
+								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
 								<br/><br/><br/><br/><br/>
@@ -222,9 +222,6 @@
 					</div>
 				</li>
 			</ul>
-			<div class="more_listing">
-				<a href="#" class="more_listing_btn">View More Listings</a>
-			</div>
 		</div>
 	</section>	<!--  end listing section  -->
 
