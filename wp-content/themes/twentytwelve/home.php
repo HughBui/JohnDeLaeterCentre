@@ -228,8 +228,8 @@
 	<footer>
 		<table style="width:100%; border:1px solid black;" >
 			<tr>
-				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg" style="float:right; margin-top: 50px;"/></td>
-				<td align="top">
+				
+				<td>
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
 					<a href="#">SCIENCE LINKS</a><br/>
@@ -241,6 +241,7 @@
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 				</td>
+				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg" style="float:right;"/></td>
 			</tr>
 		</table>
 	</footer><!--  end footer  -->
