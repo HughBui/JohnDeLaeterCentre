@@ -24,15 +24,13 @@
 						<li><a href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
-						<li><a href="#">Research</a></li>
-						<li><a href="#">Research</a></li>
 					</ul>
 					<a href="#" class="login_btn">Contact</a>
 				</nav>
 			</div>
 		</header><!--  end header section  -->
 
-			<section class="caption" style="margin-top:10px;">
+			<section class="caption">
 				<h2 class="caption">OUR FACILITIES</h2>
 				<h3 class="caption">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing environment we live in and the nature and origin of resources we depend on.</h3>
 			</section>
