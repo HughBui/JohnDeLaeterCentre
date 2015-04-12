@@ -37,7 +37,7 @@
 	</section><!--  end hero section  --> 
 
 
-	<section class="listings" style="margin-top:-100px;">
+	<section class="listings" style="margin-top:-150px;">
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
