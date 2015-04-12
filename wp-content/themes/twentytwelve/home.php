@@ -229,7 +229,7 @@
 		<div style="float:left; margin-left: 10%;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			
-			<div style="float:right; margin-top: 50px; background: #303030;">
+			<div style="float:left; margin-left: 10px; margin-top: 50px; background: #303030;">
 					<a href="#" style="text-decoration: none;">STAFF PORTAL</a><br/>
 					<a href="#" style="text-decoration: none;">LINKS</a><br/>
 					<a href="#" style="text-decoration: none;">SCIENCE LINKS</a><br/>
