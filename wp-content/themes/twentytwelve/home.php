@@ -16,7 +16,7 @@
 	<section class="hero">
 		<header>
 			<div class="wrapper">
-				<a href="#"><img src="<?php bloginfostylesheet_directory; ?>/img/logo.png" class="logo" alt="ko co" titl=""/></a>
+				<a href="#">JOHN DE LAETER\nCENTRE</a>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
