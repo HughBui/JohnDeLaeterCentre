@@ -225,7 +225,7 @@
 		</div>
 	</section>	<!--  end listing section  -->
 
-	<footer>
+	<footer style="height:300px;">
 		<div class="wrapper footer">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 			<ul style="float:right;">
@@ -249,7 +249,7 @@
 		</div>
 
 		<div class="copyrights">
-			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/>
+			<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
 		</div>
 	</footer><!--  end footer  -->
