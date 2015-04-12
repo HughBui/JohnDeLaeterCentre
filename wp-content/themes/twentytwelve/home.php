@@ -225,7 +225,7 @@
 		</div>
 	</section>	<!--  end listing section  -->
 
-	<footer>
+	<div style="width:100%; background: #303030;">
 		<div style="float:left;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>
 		</div>
@@ -241,7 +241,7 @@
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 		</div>
-	</footer><!--  end footer  -->
+	</div><!--  end footer  -->
 	
 	<script>
 		$('.property_details').each(function() {
