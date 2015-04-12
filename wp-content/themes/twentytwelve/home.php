@@ -49,7 +49,7 @@
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
 							</h1>
-							<p style="float:right; margin-top: 150px;">
+							<p style="float:right; margin-top: 100px;">
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
@@ -245,7 +245,7 @@
 	</div><!--  end footer  -->
 	<div style="width:100%; overflow: hidden; background: #242424;">
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:10%;">
-		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right;"/>
+		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right; margin-right:10%;"/>
 	</div>
 	
 	<script>
