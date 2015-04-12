@@ -15,6 +15,7 @@
 	<script>
 		$( ".property_details" ).hover(
 		  function() {
+			alert("dsadsa");
 			console.log("in");
 		  }, function() {
 			console.log("out");
