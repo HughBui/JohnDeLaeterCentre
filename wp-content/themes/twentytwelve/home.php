@@ -228,20 +228,19 @@
 	<footer>
 		<table style="width:100%; border:1px solid black;" >
 			<tr>
-				
-				<td>
+				<td valign="middle"><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></td>
+				<td valign="middle">
 					<a href="#">STAFF PORTAL</a><br/>
 					<a href="#">LINKS</a><br/>
 					<a href="#">SCIENCE LINKS</a><br/>
 					<a href="#">BOARD OF DIRECTORS</a><br/>
 				</td>
-				<td>
+				<td valign="middle">
 					<p>Contact to us Via social:</p>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 				</td>
-				
 			</tr>
 		</table>
 	</footer><!--  end footer  -->
