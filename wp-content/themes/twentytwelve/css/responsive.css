@@ -71,13 +71,14 @@
 
 
 /*  General CSS  */
-body{
-    background: #fff;
-	width:100%;
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+	background: #fff;
 }
 
 .wrapper{
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
     position: relative;
 }

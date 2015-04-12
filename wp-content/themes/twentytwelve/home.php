@@ -54,7 +54,7 @@
 								Dr Noreen Evans
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
