@@ -226,22 +226,20 @@
 	</section>	<!--  end listing section  -->
 
 	<footer>
-		<table>
+		<table style="width:100%;">
 			<tr>
 				<td><img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/></td>
 				<td>
-					<a href="#">STAFF PORTAL</a>
-					<a href="#">LINKS</a>
-					<a href="#">SCIENCE LINKS</a>
-					<a href="#">BOARD OF DIRECTORS</a>
+					<a href="#">STAFF PORTAL</a><br/>
+					<a href="#">LINKS</a><br/>
+					<a href="#">SCIENCE LINKS</a><br/>
+					<a href="#">BOARD OF DIRECTORS</a><br/>
 				</td>
 				<td>
 					<p>Contact to us Via social:</p>
-					<ul>
-						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a></li>
-						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a></li>
-						<li><a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a></li>
-					</ul>
+					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/in.png"/></a>
+					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
+					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 				</td>
 			</tr>
 		</table>
