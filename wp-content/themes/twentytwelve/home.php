@@ -11,6 +11,7 @@
 
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	
 	<script>
 		$(".property_details").hover(
