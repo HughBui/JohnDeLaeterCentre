@@ -37,19 +37,15 @@
 	</section><!--  end hero section  --> 
 
 
-	<section class="listings">
+	<section class="listings" style="margin-top:-100px;">
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<a href="#">
-						<img src="<?php bloginfostylesheet_directory; ?>/img/property_1.jpg" alt="" title="" class="property_img"/>
-					</a>
 					<span><b>K-AR GEOCHRONOLOGY</b></span>
 					<div class="property_details">
 						<h1>
 							<a href="#">Fuisque dictum tortor at purus libero</a>
 						</h1>
-						<h2>2 kitchens, 2 bed, 2 bath... <span class="property_size">(288ftsq)</span></h2>
 					</div>
 				</li>
 				<li>
