@@ -144,14 +144,14 @@
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #ba694e;">
 						<div>
 							<h1>
-								<a href="#">SAXS (Small Angle X-ray Scattering)</a>
+								<a href="#">SAXS (Small Angle X-ray Scattering)<br/>&nbsp;</a>
 							</h1>
 							<p style="float:right;">
-								<br/><br/><br/><br/><br/><br/><br/><br/>
+								<br/><br/><br/><br/><br/><br/><br/>
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
@@ -167,7 +167,7 @@
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none;">
-								<br/><br/><br/><br/>
+								<br/><br/><br/>
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
 							</p>
 						</div>
