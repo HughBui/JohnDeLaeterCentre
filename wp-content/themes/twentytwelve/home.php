@@ -16,7 +16,7 @@
 	
 </head>
 <body>
-
+	<!-- header section  -->
 	<section class="hero" style="height:500px;">
 		<header>
 			<div class="wrapper">
@@ -31,15 +31,16 @@
 					<a href="#" class="login_btn">Contact</a>
 				</nav>
 			</div>
-		</header><!--  end header section  -->
+		</header>
 
 			<section class="caption">
 				<h2 class="caption">OUR FACILITIES</h2><br/>
 				<h3 class="caption">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing<br/>environment we live in and the nature and origin of resources we depend on.</h3>
 			</section>
-	</section><!--  end hero section  --> 
+	</section>
+	<!--  end header section  -->
 
-
+	<!--  grid section  -->
 	<section class="listings" style="margin-top:-150px;">
 		<div class="wrapper">
 			<ul class="properties_list">
@@ -201,8 +202,10 @@
 				</li>
 			</ul>
 		</div>
-	</section>	<!--  end listing section  -->
+	</section>
+	<!--  end grid section  -->
 
+	<!--  footer section  -->
 	<div style="width:100%; overflow: hidden; background: #303030;">
 		<div style="float:left; margin-left: 10%;">
 			<img src="<?php bloginfo(stylesheet_directory); ?>/img/address.jpg"/>			
@@ -221,12 +224,14 @@
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/twitter.png"/></a>
 					<a href="" target="_blank"><img src="<?php bloginfo(stylesheet_directory); ?>/img/youtube.png"/></a>
 		</div>
-	</div><!--  end footer  -->
+	</div>
 	<div style="width:100%; overflow: hidden; background: #242424;">
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/gramercy.jpg"/ style="float:left; margin-left:10%;">
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right; margin-right:10%;"/>
 	</div>
+	<!--  end footer section  -->
 	
+	<!--  scripts to change color  -->
 	<script>
 		$('.property_details').each(function() {
 			$(this).hover(
