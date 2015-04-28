@@ -223,6 +223,7 @@ header nav .login_btn:hover{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+	overflow: hidden;
 }
 
 .blank{
