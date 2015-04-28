@@ -249,7 +249,7 @@ header nav .login_btn:hover{
 	color: #fff;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    margin: 0 0 0 25px;
+    margin: 40px 0 0 0px;
     left: 1px;
 }
 
@@ -258,7 +258,7 @@ header nav .login_btn:hover{
     font-family: "Times New Roman", Georgia, Serif;
     font-size:18px;
 	line-height: 150%; 
-    margin: 0 0 0 25px;
+    margin: 40px 0 0 0px;
     left: 1px;
 }
 
