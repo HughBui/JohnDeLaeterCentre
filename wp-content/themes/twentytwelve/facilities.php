@@ -143,7 +143,7 @@
 				<script>
 					$(function() {
 						if($(window).width() <= 800){
-							console.log($(window).width());
+							$(".property_details img").css("position", "initial");
 						}
 					});
 				</script>
