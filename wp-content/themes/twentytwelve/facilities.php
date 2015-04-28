@@ -71,9 +71,9 @@
 	<!--  grid section  -->
 	<section class="listings">	
 		<div class="wrapper">
-			<ul class="properties_list" style="width:30%;">
+			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
+					<div class="property_details" style="height:200px; width: 50%; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
 								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
