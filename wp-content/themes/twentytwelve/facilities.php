@@ -56,7 +56,7 @@
 	</section>
 	<!--  end header section  -->
 
-	<section class="hero blank" style="height: 200px;">
+	<section class="hero" style="height: 200px;">
 		<section class="caption">
 			<h2 class="caption">APPLICATIONS</h2><br/>
 			<p class="caption">
