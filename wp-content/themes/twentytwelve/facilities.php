@@ -120,6 +120,11 @@
 						</div>
 					</div>
 				</li>
+				<li>
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+						<img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</section>
