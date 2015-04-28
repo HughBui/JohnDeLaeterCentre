@@ -526,7 +526,7 @@ header nav .login_btn:hover{
     margin-right: 0;
 }
 
-.listings ul.properties_list.two li:nth-child(odd){
+.listings ul.properties_list.two li:nth-child(even){
     margin-right: 0;
 }
 
@@ -898,7 +898,7 @@ footer .copyrights a.ph_link{
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
 	
-	.listings ul.properties_list.two li:nth-child(odd){
+	.listings ul.properties_list.two li:nth-child(even){
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
 
@@ -906,7 +906,7 @@ footer .copyrights a.ph_link{
         margin-right: 0;
     }
 	
-	.listings ul.properties_list.two li:nth-child(odd){
+	.listings ul.properties_list.two li:nth-child(even){
         margin-right: 0;
     }
 
@@ -999,7 +999,7 @@ footer .copyrights a.ph_link{
         margin:0;
     }
 	
-	.listings ul.properties_list.two li:nth-child(odd){
+	.listings ul.properties_list.two li:nth-child(even){
         margin:0;
     }
 	
