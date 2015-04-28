@@ -71,7 +71,7 @@
 	<!--  grid section  -->
 	<section class="listings">	
 		<div class="wrapper">
-			<ul class="properties_list">
+			<ul class="properties_list" style="width:30%;">
 				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
 						<div>
@@ -122,104 +122,6 @@
 								<a href="#">ORGANIC GEOCHEMISTRY<br/>&nbsp;</a>
 							</h1>
 							<p style="position: absolute; bottom:20px; right: 20px;"> 
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #d6c91a;">
-						<div>
-							<h1>
-								<a href="#">ELECTRON MICROSCOPY AND X-RAY ANALYSIS</a>
-							</h1>
-							<p style="float:right;  margin-top: 90px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #c59e25;">
-						<div>
-							<h1>
-								<a href="#">SHRIMP(Sensitive High Resolution Ion Micro Probe)</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #ba694e;">
-						<div>
-							<h1>
-								<a href="#">SAXS (Small Angle X-ray Scattering)<br/>&nbsp;</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #d70021;">
-						<div>
-							<h1>
-								<a href="#">TIMS (Thermal Ionization Mass Spectrometry)</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #d92fb6;">
-						<div>
-							<h1>
-								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #8d54bd;">
-						<div>
-							<h1>
-								<a href="#">TRACE (Trace Research Advanced Clean Environment)</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li><li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #538ac0;">
-						<div>
-							<h1>
-								<a href="#">SIRMS (Stable Isotope Ratio Mass Spectrometry)</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Allen Kennedy
 							</p>
 							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
