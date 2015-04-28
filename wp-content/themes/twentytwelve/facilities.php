@@ -1,3 +1,11 @@
+<?php
+/*
+ * Template Name: My Custom Page
+ * Description: A Page Template with a darker design.
+ */
+
+// Code to display Page goes here...?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
