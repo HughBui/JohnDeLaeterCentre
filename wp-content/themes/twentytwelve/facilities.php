@@ -78,7 +78,7 @@
 							<h1>
 								Environmental
 							</h1>
-							<p style="width:70%" align="center">
+							<p style="width:70%; text-align:center;">
 								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
 						</div>
