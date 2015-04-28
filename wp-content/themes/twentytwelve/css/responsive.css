@@ -886,7 +886,7 @@ footer .copyrights a.ph_link{
     }
 	
 	.listings ul.properties_list li.two{
-        width: 60%;
+        width: 100%;
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
 
@@ -977,11 +977,6 @@ footer .copyrights a.ph_link{
         width: 100%;
         margin-bottom: 60px!important;
     }
-	
-	.listings ul.properties_list li.two{
-        width: 100%;
-        margin-bottom: 60px!important;
-    }
 
     .listings ul.properties_list li:last-child{
         margin-bottom: 0!important;
@@ -993,10 +988,6 @@ footer .copyrights a.ph_link{
 
     .listings ul.properties_list li:nth-child(3n+0),
     .listings ul.properties_list li:nth-child(2n+0){
-        margin:0;
-    }
-
-    .listings ul.properties_list li.two:nth-child(2n+0){
         margin:0;
     }
 	
