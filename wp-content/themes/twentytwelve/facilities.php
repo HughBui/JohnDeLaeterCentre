@@ -73,7 +73,7 @@
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center; color: #666464;">
 						<div>
 							<h1>
 								Environmental
@@ -81,7 +81,7 @@
 							<p>
 								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
-						</div>
+						</div><br/><br/>
 						<div>
 							<h1>
 								Health 
