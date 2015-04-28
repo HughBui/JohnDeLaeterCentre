@@ -526,9 +526,7 @@ header nav .login_btn:hover{
     margin-right: 0;
 }
 
-.listings ul.properties_list.two li:nth-child(even){
-    margin-right: 0;
-}
+
 
 .listings ul li .property_details{
     width: 87.64705882352941%;
