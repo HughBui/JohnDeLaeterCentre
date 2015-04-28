@@ -57,7 +57,7 @@
 	<!--  end header section  -->
 	
 	
-	<section class="hero caption">
+	<section class="wrapper caption">
 		<h2 class="caption">APPLICATIONS</h2><br/>
 		<p class="caption">
 			The TIMS instrument, in combination with isotope dilution methodology, is<br/>
