@@ -56,10 +56,10 @@
 	</section>
 	<!--  end header section  -->
 
-	<section class="hero" style="height: 200px;">
+	<section class="hero blank" style="height: 200px;">
 		<section class="caption">
-			<h2 class="caption">APPLICATIONS</h2><br/>
-			<p class="caption">
+			<h2 class="caption" style="color:#b463b0;">APPLICATIONS</h2><br/>
+			<p class="caption" style="color:#797979;">
 				The TIMS instrument, in combination with isotope dilution methodology, is<br/>
 				widely used in chemical metrology for the calibration of isotopic standards, and<br/>
 				the calculation of isotopic abundances and atomic weights. 
