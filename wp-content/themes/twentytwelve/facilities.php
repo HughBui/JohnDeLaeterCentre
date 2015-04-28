@@ -25,7 +25,7 @@
 </head>
 <body>
 	<!-- header section  -->
-	<section class="facilitiesTop" style="height:1000px;">
+	<section class="facilitiesTop" style="height:800px;">
 		<header>
 			<div class="wrapper">
 				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
