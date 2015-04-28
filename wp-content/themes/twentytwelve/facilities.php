@@ -93,16 +93,61 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; margin-right:0px; border-bottom: 3px solid #59ba97;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center; color: #666464;">
 						<div>
 							<h1>
-								<a href="#">(U-TH)/HE<br/>&nbsp;</a>
+								Environmental
 							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Noreen Evans
+							<p>
+								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+						</div><br/><br/>
+						<div>
+							<h1>
+								Health 
+							</h1>
+							<p>
+								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center; color: #666464;">
+						<div>
+							<h1>
+								Environmental
+							</h1>
+							<p>
+								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
+							</p>
+						</div><br/><br/>
+						<div>
+							<h1>
+								Health 
+							</h1>
+							<p>
+								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center; color: #666464;">
+						<div>
+							<h1>
+								Environmental
+							</h1>
+							<p>
+								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
+							</p>
+						</div><br/><br/>
+						<div>
+							<h1>
+								Health 
+							</h1>
+							<p>
+								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
 							</p>
 						</div>
 					</div>
