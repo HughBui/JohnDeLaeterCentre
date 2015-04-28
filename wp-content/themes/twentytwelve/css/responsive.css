@@ -489,7 +489,6 @@ header nav .login_btn:hover{
     height: 30%;
     position: relative;
     float: left;
-    margin: 0 3.636363636363636% 3.636363636363636% 0;
 }
 
 .listings ul.properties_list.two li{
@@ -524,10 +523,6 @@ header nav .login_btn:hover{
 
 
 .listings ul.properties_list li:nth-child(3n+0){
-    margin-right: 0;
-}
-
-.listings ul.properties_list.two li:nth-child(even){
     margin-right: 0;
 }
 
@@ -898,16 +893,8 @@ footer .copyrights a.ph_link{
     .listings ul.properties_list li:nth-child(3n+0){
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
-	
-	.listings ul.properties_list.two li:nth-child(even){
-        margin: 0 7.272727272727273% 7.272727272727273% 0;
-    }
 
     .listings ul.properties_list li:nth-child(2n+0){
-        margin-right: 0;
-    }
-	
-	.listings ul.properties_list.two li:nth-child(even){
         margin-right: 0;
     }
 
@@ -997,10 +984,6 @@ footer .copyrights a.ph_link{
 
     .listings ul.properties_list li:nth-child(3n+0),
     .listings ul.properties_list li:nth-child(2n+0){
-        margin:0;
-    }
-	
-	.listings ul.properties_list.two li:nth-child(even){
         margin:0;
     }
 	
