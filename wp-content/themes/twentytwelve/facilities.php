@@ -102,7 +102,36 @@
 						</div>
 					</div>
 				</li>
-				
+				<li class="two">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
+						<div>
+							<h1>
+								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
+							</h1>
+							<p style="position: absolute; bottom:20px; right: 20px;">
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
+					</div>
+				</li>
+				<li class="two">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
+						<div>
+							<h1>
+								<a href="#">(U-TH)/HE<br/>&nbsp;</a>
+							</h1>
+							<p style="position: absolute; bottom:20px; right: 20px;">
+								Dr Noreen Evans
+							</p>
+							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							</p>
+						</div>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</section>
