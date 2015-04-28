@@ -101,7 +101,8 @@
 							</p>
 						</div>
 					</div>
-				</li><li class="two">
+				</li>
+				<li class="two">
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #52bd53;">
 						<div>
 							<h1>
@@ -115,7 +116,8 @@
 							</p>
 						</div>
 					</div>
-				</li><li class="two">
+				</li>
+				<li class="two">
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #a5bb59;">
 						<div>
 							<h1>
