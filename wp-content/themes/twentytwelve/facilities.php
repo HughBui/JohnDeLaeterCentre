@@ -42,7 +42,7 @@
 		</header>
 
 			<section class="caption" style="margin-top:100px;">
-				<h2 class="caption">OUR FACILITIES a</h2><br/>
+				<h2 class="caption">OUR FACILITIES</h2><br/>
 				<h3 class="caption">John de Laeter Centre provides unique quantitative data on the way the Earth works, elucidating the changing<br/>environment we live in and the nature and origin of resources we depend on.</h3>
 			</section>
 	</section>
