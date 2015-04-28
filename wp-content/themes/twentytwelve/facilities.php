@@ -71,8 +71,8 @@
 	<!--  grid section  -->
 	<section class="listings">	
 		<div class="wrapper">
-			<ul class="properties_list">
-				<li class="two">
+			<ul class="properties_list two">
+				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
@@ -87,7 +87,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="two">
+				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
@@ -102,7 +102,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="two">
+				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
@@ -117,7 +117,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="two">
+				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
