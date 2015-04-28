@@ -144,8 +144,6 @@
 					$(function() {
 						if($(window).width() <= 800){
 							$(".property_details > img").css("position", "initial");
-						}else{
-							$(".property_details > img").css("position", "");
 						}
 					});
 				</script>
