@@ -41,7 +41,7 @@
 			</div>
 		</header>
 
-			<section class="caption" style="margin-top:100px;">
+			<section class="caption" style="margin-top:80px;">
 				<h3 class="caption">(TIMS)</h3>
 				<h2 class="caption">THERMAL IONIZATION MASS SPECTROMETRY FACILITY</h2><br/>
 				<img src="<?php bloginfo(stylesheet_directory); ?>/img/video.png"/>
