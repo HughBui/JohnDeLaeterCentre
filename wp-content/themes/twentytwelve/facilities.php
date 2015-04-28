@@ -125,6 +125,21 @@
 						<img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/>
 					</div>
 				</li>
+				<li>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border: none;">
+						<img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border: none;">
+						<img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border: none;">
+						<img src="<?php bloginfo(stylesheet_directory); ?>/img/4.JPG"/>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</section>
