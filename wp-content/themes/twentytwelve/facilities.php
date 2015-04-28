@@ -102,36 +102,7 @@
 						</div>
 					</div>
 				</li>
-				<li class="two">
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #52bd53;">
-						<div>
-							<h1>
-								<a href="#">ARGON ISOTOPE<br/>&nbsp;</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								A Prof Fred Jourdan
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li>
-				<li class="two">
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #a5bb59;">
-						<div>
-							<h1>
-								<a href="#">ORGANIC GEOCHEMISTRY<br/>&nbsp;</a>
-							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;"> 
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
-							</p>
-						</div>
-					</div>
-				</li>
+				
 			</ul>
 		</div>
 	</section>
