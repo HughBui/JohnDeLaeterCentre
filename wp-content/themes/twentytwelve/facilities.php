@@ -118,7 +118,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; margin-left:3.636363636363636%; border-bottom: 3px solid #59ba97;">
+					<div class="property_details" style="height:200px; margin-right:3.636363636363636%; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
 								<a href="#">(U-TH)/HE<br/>&nbsp;</a>
