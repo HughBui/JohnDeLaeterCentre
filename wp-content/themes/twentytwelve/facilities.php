@@ -25,7 +25,7 @@
 </head>
 <body>
 	<!-- header section  -->
-	<section class="hero" style="height:800px; background: url('<?php bloginfo(stylesheet_directory); ?>/img/facilitiesTop.jpg') no-repeat top center;">
+	<section class="hero facilitiesTop">
 		<header>
 			<div class="wrapper">
 				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>

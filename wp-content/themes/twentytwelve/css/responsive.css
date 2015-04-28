@@ -216,6 +216,14 @@ header nav .login_btn:hover{
     -o-background-size: cover;
 }
 
+.facilitiesTop{
+	height: 800px;
+    background: url('../img/facilitiesTop.jpg') no-repeat top center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
 
 .caption{
     width: 100%;
