@@ -73,10 +73,10 @@
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
+					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4; text-align:center;">
 						<div>
 							<h1>
-								<a href="#">K-AR GEOCHRONOLOGY<br/>&nbsp;</a>
+								Environmental
 							</h1>
 							<p style="position: absolute; bottom:20px; right: 20px;">
 								Dr Noreen Evans
