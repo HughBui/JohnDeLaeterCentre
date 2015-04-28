@@ -78,11 +78,16 @@
 							<h1>
 								Environmental
 							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Noreen Evans
+							<p>
+								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+						</div>
+						<div>
+							<h1>
+								Health 
+							</h1>
+							<p>
+								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
 							</p>
 						</div>
 					</div>
@@ -132,23 +137,5 @@
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right; margin-right:10%;"/>
 	</div>
 	<!--  end footer section  -->
-	
-	<!--  scripts to change color  -->
-	<script>
-		$('.property_details').each(function() {
-			$(this).hover(
-			  function() {
-				var color = $(this).css("border-bottom-color");
-				$(this).css('background-color',color); 
-				$(this).find("p").toggle();
-				$(this).find("a").css("color", "white");
-			  }, function() {
-				$(this).css('background-color','white'); 
-				$(this).find("p").toggle();
-				$(this).find("a").css("color", "#666464");
-			  }
-			);
-		});
-	</script>
 </body>
 </html>
