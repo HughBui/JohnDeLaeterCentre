@@ -25,7 +25,7 @@
 </head>
 <body>
 	<!-- header section  -->
-	<section class="hero" style="height:800px; background: url('../img/facilitiesTop.jpg') no-repeat top center;">
+	<section class="hero" style="height:800px; background: url('<?php bloginfo(stylesheet_directory); ?>/img/facilitiesTop.jpg') no-repeat top center;">
 		<header>
 			<div class="wrapper">
 				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
@@ -55,23 +55,22 @@
 			</section>
 	</section>
 	<!--  end header section  -->
-	
-		
+
+	<section class="hero" style="background:none;">
+		<section class="caption">
+			<h2 class="caption">APPLICATIONS</h2><br/>
+			<p class="caption">
+				The TIMS instrument, in combination with isotope dilution methodology, is<br/>
+				widely used in chemical metrology for the calibration of isotopic standards, and<br/>
+				the calculation of isotopic abundances and atomic weights. 
+			</p>
+		</section>
+	</section>	
 	
 	
 	<!--  grid section  -->
-	<section class="listings">
-		
-	
+	<section class="listings">	
 		<div class="wrapper">
-			<section class="caption">
-				<h2 class="caption">APPLICATIONS</h2><br/>
-				<p class="caption">
-					The TIMS instrument, in combination with isotope dilution methodology, is<br/>
-					widely used in chemical metrology for the calibration of isotopic standards, and<br/>
-					the calculation of isotopic abundances and atomic weights. 
-				</p>
-			</section>
 			<ul class="properties_list">
 				<li>
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #49b1b4;">
