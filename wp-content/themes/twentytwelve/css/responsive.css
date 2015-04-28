@@ -885,7 +885,7 @@ footer .copyrights a.ph_link{
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
 	
-	.listings ul.properties_list li .two{
+	.listings ul.properties_list li.two{
         width: 60%;
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
@@ -898,7 +898,7 @@ footer .copyrights a.ph_link{
         margin-right: 0;
     }
 	
-	.listings ul.properties_list li .two:nth-child(2n+0){
+	.listings ul.properties_list li.two:nth-child(2n+0){
         margin-right: 0;
     }
 
@@ -977,17 +977,29 @@ footer .copyrights a.ph_link{
         width: 100%;
         margin-bottom: 60px!important;
     }
+	
+	.listings ul.properties_list li.two{
+        width: 100%;
+        margin-bottom: 60px!important;
+    }
 
     .listings ul.properties_list li:last-child{
         margin-bottom: 0!important;
     }
 
+	.listings ul.properties_list li.two:last-child{
+        margin-bottom: 0!important;
+    }
 
     .listings ul.properties_list li:nth-child(3n+0),
     .listings ul.properties_list li:nth-child(2n+0){
         margin:0;
     }
 
+    .listings ul.properties_list li.two:nth-child(2n+0){
+        margin:0;
+    }
+	
     .listings .more_listing_btn{
         display: block;
         width: 100%; 
