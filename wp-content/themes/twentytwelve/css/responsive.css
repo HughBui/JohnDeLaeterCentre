@@ -221,10 +221,10 @@ header nav .login_btn:hover{
     height: 643px;
     position: relative;
     background: url('../img/facilitiesTop.jpg') no-repeat top center;
-    background-size: contain;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    -o-background-size: contain;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
 .caption{
