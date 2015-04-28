@@ -526,6 +526,10 @@ header nav .login_btn:hover{
     margin-right: 0;
 }
 
+.listings ul.properties_list li.two:nth-child(2n+0){
+    margin-right: 0;
+}
+
 .listings ul li .property_details{
     width: 87.64705882352941%;
     padding: 2.941176470588235% 5.882352941176471% 4.117647058823529% 5.882352941176471%;
