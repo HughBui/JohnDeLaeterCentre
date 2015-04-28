@@ -74,7 +74,7 @@
 			<ul class="properties_list two">
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
-						<div style="width:70%; text-align:center;">
+						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Environmental
 							</h1>
