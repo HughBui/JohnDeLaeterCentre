@@ -72,7 +72,7 @@
 	<section class="listings">	
 		<div class="wrapper">
 			<ul class="properties_list">
-				<li>
+				<li class="two">
 					<div class="property_details" style="height:200px; width: 50%; border-bottom: 3px solid #49b1b4;">
 						<div>
 							<h1>
@@ -87,7 +87,7 @@
 						</div>
 					</div>
 				</li>
-				<li>
+				<li class="two">
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #59ba97;">
 						<div>
 							<h1>
@@ -101,7 +101,7 @@
 							</p>
 						</div>
 					</div>
-				</li><li>
+				</li><li class="two">
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #52bd53;">
 						<div>
 							<h1>
@@ -115,7 +115,7 @@
 							</p>
 						</div>
 					</div>
-				</li><li>
+				</li><li class="two">
 					<div class="property_details" style="height:200px; border-bottom: 3px solid #a5bb59;">
 						<div>
 							<h1>
