@@ -227,7 +227,7 @@ header nav .login_btn:hover{
     -o-background-size: cover;
 }
 
-.hero .caption{
+.caption{
     width: 100%;
     position: absolute;
     text-align: center;
@@ -236,7 +236,7 @@ header nav .login_btn:hover{
     z-index: 10;
 }
 
-.hero .caption h2{
+.caption h2{
     color: #fff;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 30px;
