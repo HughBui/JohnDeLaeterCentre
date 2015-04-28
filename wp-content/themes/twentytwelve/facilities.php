@@ -56,7 +56,7 @@
 	</section>
 	<!--  end header section  -->
 	
-	
+	<div>
 	<section class="caption">
 		<h2 class="caption">APPLICATIONS</h2><br/>
 		<p class="caption">
@@ -65,7 +65,8 @@
 			the calculation of isotopic abundances and atomic weights. 
 		</p>
 	</section>
-
+	</div>
+	
 	<!--  grid section  -->
 	<section class="listings">
 		<div class="wrapper">
