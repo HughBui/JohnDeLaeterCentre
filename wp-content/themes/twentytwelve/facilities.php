@@ -44,7 +44,7 @@
 			<section class="caption" style="margin-top:100px;">
 				<h3 class="caption">(TIMS)</h3>
 				<h2 class="caption">THERMAL IONIZATION MASS SPECTROMETRY FACILITY</h2><br/>
-				<h3 class="caption" style="font-size:15px;line-height: 150%;">
+				<h3 class="caption" style="font-size:15px;line-height: 200%; color:#706e71;">
 					THIS INSTRUMENT PROVIDES HIGHLY ACCURATE AND PRECISE MEASUREMENTS<br/>
 					OF AN ELEMENT'S ISOTOPIC COMPOSITION, REPRESENTING THE 'GOLD'<br/>
 					STANDARD FOR ISOTOPIC ANALYSIS. THE ISOTOPIC DILUTION TECHNIQUE IS<br/>
