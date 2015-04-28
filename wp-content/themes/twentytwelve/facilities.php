@@ -140,6 +140,13 @@
 						<img style="position:absolute; left:0px; top:0px;" src="<?php bloginfo(stylesheet_directory); ?>/img/4.JPG"/>
 					</div>
 				</li>
+				<script>
+					$(){
+						if($(window).width() <= 800){
+							console.log($(window).width(););
+						}
+					}
+				</script>
 			</ul>
 		</div>
 	</section>
