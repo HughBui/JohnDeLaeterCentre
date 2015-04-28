@@ -56,8 +56,8 @@
 	</section>
 	<!--  end header section  -->
 	
-	
-	<section class="wrapper caption">
+	<div class="wrapper">
+	<section class="caption">
 		<h2 class="caption">APPLICATIONS</h2><br/>
 		<p class="caption">
 			The TIMS instrument, in combination with isotope dilution methodology, is<br/>
@@ -65,7 +65,7 @@
 			the calculation of isotopic abundances and atomic weights. 
 		</p>
 	</section>
-	
+	</div>
 	
 	<!--  grid section  -->
 	<section class="listings">
