@@ -74,11 +74,11 @@
 			<ul class="properties_list two">
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
-						<div>
+						<div style="width:70%; text-align:center;">
 							<h1>
 								Environmental
 							</h1>
-							<p style="width:70%; text-align:center;">
+							<p>
 								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
 						</div>
