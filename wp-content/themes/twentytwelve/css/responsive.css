@@ -225,6 +225,10 @@ header nav .login_btn:hover{
     -o-background-size: cover;
 }
 
+.blank{
+	background:none;
+}
+
 .caption{
     width: 100%;
     text-align: center;
