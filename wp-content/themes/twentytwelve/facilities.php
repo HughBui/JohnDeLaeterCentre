@@ -73,7 +73,7 @@
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Environmental
@@ -85,7 +85,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Geosciences
@@ -97,7 +97,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Health 
@@ -109,7 +109,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Chemical Metrology 
