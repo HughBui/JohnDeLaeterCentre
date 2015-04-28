@@ -223,7 +223,6 @@ header nav .login_btn:hover{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-	overflow: hidden;
 }
 
 .blank{
@@ -796,6 +795,10 @@ footer .copyrights a.ph_link{
     .hero{
         height: 600px;
     }
+	
+	.hero.facilitiesTop{
+		height:800px;
+	}
 
     .hero .caption{
         width: 92.72727272727273%;
