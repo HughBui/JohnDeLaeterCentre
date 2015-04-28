@@ -1,7 +1,7 @@
 <?php
 /*
- * Template Name: My Custom Page
- * Description: A Page Template with a darker design.
+ * Template Name: Facilities
+ * Description: Single Facilities Page Template.
  */
 
 // Code to display Page goes here...?>
