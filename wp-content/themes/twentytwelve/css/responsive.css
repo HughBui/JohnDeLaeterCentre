@@ -493,7 +493,8 @@ header nav .login_btn:hover{
 }
 
 .listings ul.properties_list.two li{
-    width: 45%;
+    width: 40%;
+	margin: 0 6% 6% 0;
 }
 
 .listings ul.properties_list li img.property_img{
