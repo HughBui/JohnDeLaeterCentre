@@ -78,7 +78,7 @@
 							<h1>
 								Environmental
 							</h1>
-							<p style="width:70%">
+							<p align="center" style="width:70%">
 								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
 							</p>
 						</div>
@@ -90,7 +90,7 @@
 							<h1>
 								Geosciences
 							</h1>
-							<p style="width:70%">
+							<p align="center" style="width:70%">
 								Ceochronolow U/Pb, Pb/Pb. Sm/Nd. Kb/Sr. K/Ca.
 							</p>
 						</div>
@@ -102,7 +102,7 @@
 							<h1>
 								Health 
 							</h1>
-							<p style="width:70%">
+							<p align="center" style="width:70%">
 								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
 							</p>
 						</div>
@@ -114,7 +114,7 @@
 							<h1>
 								Chemical Metrology 
 							</h1>
-							<p style="width:70%">
+							<p align="center" style="width:70%">
 								Calibration of standards for isotopic composition and concentration. Isotopic abundances and atomic weights. 
 							</p>
 						</div>
