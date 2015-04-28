@@ -251,7 +251,13 @@ header nav .login_btn:hover{
     left: 1px;
 }
 
-
+.caption p{
+	color: #fff;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 15px;
+    margin: 40px 0 0 25px;
+    left: 1px;
+}
 
 
 
