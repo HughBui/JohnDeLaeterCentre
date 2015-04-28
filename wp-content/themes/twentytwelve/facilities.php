@@ -86,11 +86,11 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
-						<div>
+						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Geosciences
 							</h1>
-							<p align="center" style="width:70%">
+							<p>
 								Ceochronolow U/Pb, Pb/Pb. Sm/Nd. Kb/Sr. K/Ca.
 							</p>
 						</div>
@@ -98,11 +98,11 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
-						<div>
+						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Health 
 							</h1>
-							<p align="center" style="width:70%">
+							<p>
 								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
 							</p>
 						</div>
@@ -110,11 +110,11 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464;">
-						<div>
+						<div style="width:70%; margin: 0 auto;">
 							<h1>
 								Chemical Metrology 
 							</h1>
-							<p align="center" style="width:70%">
+							<p>
 								Calibration of standards for isotopic composition and concentration. Isotopic abundances and atomic weights. 
 							</p>
 						</div>
