@@ -121,23 +121,23 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; text-align:center; color: #666464;">
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border:none;">
 						<img style="position:absolute; right:0px; bottom:0px;" src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; text-align:center; color: #666464;">
-						<img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border:none;">
+						<img style="position:absolute; left:0px; bottom:0px;" src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; text-align:center; color: #666464;">
-						<img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border:none;">
+						<img style="position:absolute; right:0px; top:0px;" src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:200px; text-align:center; color: #666464;">
-						<img src="<?php bloginfo(stylesheet_directory); ?>/img/4.JPG"/>
+					<div class="property_details" style="height:200px; text-align:center; color: #666464; border:none;">
+						<img style="position:absolute; left:0px; top:0px;" src="<?php bloginfo(stylesheet_directory); ?>/img/4.JPG"/>
 					</div>
 				</li>
 			</ul>
