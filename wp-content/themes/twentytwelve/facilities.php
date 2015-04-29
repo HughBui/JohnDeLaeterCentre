@@ -200,7 +200,7 @@
 				</li>
 			</ul>
 		</div>
-		<div style="border: 1px solid #dadada;">SEE MORE</div>
+		<div style="width: 200px; height:100px; text-align:center; border: 1px solid #dadada;">SEE MORE</div>
 	</section>
 	<!--  end grid section  -->
 
