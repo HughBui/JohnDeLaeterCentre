@@ -153,7 +153,7 @@
 	<!--  end APPLICATIONS section  -->
 	
 	<!--  grid section  -->
-	<section class="listings" style="margin-top:-150px;">
+	<section class="listings" style="margin-top:-150px; background-color:red;">
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
