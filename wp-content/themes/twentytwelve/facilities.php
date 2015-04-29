@@ -19,8 +19,11 @@
 
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.js"></script>
 	<script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/main.js"></script>
-	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.css"/>
+	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
 	
 </head>
 <body>
@@ -220,66 +223,21 @@
 		<h3 class="caption" style="color:#666464; font-weight: lighter; margin-bottom:100px;">
 			OUR TIMS FACILITY INCORPORATES THERMO FINNEGAN<br/>TRITON&#0153; AND A VG 354 MULTICOLLECTOR MASS<br/>SPECTROMETERS. 
 		</h3>
-		<p class="caption" style="color:#666464; font-size: 20px; margin-top:-50px;">
+		<p class="caption" style="color:#666464; font-size: 20px; margin-top:-50px; margin-bottom:50px;">
 				The TIMS evaporates atoms from an unknown sample from a hot filament. The<br/>
 				isotopes are separated by a magnetic field and measured as samm ecectric currents. 
 		</p>
-		<div class="wrapper">
-			<ul class="properties_list">
-				<li>
-					<div class="property_details right_bottom_borders" style="height:400px;">
-						<div>
-							<h1>
-								ISOTOPIC<br/>FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
-							</h1>
-							<br/><br/><br/><br/><br/>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
-								<b>May 1, 2012</b><br/>
-								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
-							</p>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details right_bottom_borders" style="height:400px; background: url(<?php bloginfo(stylesheet_directory); ?>/img/5.jpg) no-repeat; background-size: 100%;">
-						<div style="position:absolute; bottom:20px;">
-							<h1>
-								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
-							</h1>
-							<br/>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
-								<b>April 26, 2012</b>
-							</p>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details right_bottom_borders" style="height:400px;">
-						<div>
-							<h1>
-								EVALUATION OF PAST POLLUTION OF A REGION LAKE SEDIMENTS. 
-							</h1>
-							<br/><br/><br/><br/><br/>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
-								<b>May 1, 2012</b><br/>
-								John de theter Centre researchers discovered the Earth's oldest crustal fragments at Jack Hills, Western Australia. Lavern ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magma align. Lit enitn ad minim veniam, quis nostrud exercitation ullarnco la boris nisi ut aliquip ex ea commode oonsequat. Du is ante irtn'e 
-							</p>
-						</div>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+		<div class="carousel">
+			<div>your content</div>
+			<div>your content</div>
+			<div>your content</div>
 		</div>
 		<script>
-			$(".hero.blank.btn").hover(
-			  function() {
-				$(this).css("background","#dadada");
-			  }, function() {
-				$(this).css("background","");
-			  }
-			);
+			$('.carousel').slick({
+			  infinite: true,
+			  slidesToShow: 2,
+			  slidesToScroll: 2
+			});
 		</script>
 	</section>
 	<!--  end grid section  -->
