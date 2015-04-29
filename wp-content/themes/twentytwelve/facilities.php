@@ -238,8 +238,8 @@
 			  infinite: true,
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
-			  prevArrow: "<img style='margin-left: -70px; margin-top:-100px;' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>"			  
-			});
+			  prevArrow: "<img style='margin-left: -70px; margin-top:-300px;' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>"			  
+			});1
 		</script>
 	</section>
 	<!--  end grid section  -->
