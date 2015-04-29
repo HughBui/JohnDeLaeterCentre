@@ -174,7 +174,7 @@
 				<li>
 					<div class="property_details right_bottom_borders" style="height:400px;">
 						<div>
-							<img style="width:100%;" src="<?php bloginfo(stylesheet_directory); ?>/img/5.jpg"/> 
+							<img style="width:120%;" src="<?php bloginfo(stylesheet_directory); ?>/img/5.jpg"/> 
 							<h1>
 								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
 							</h1>
