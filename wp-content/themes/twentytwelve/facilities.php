@@ -188,7 +188,7 @@
 					<div class="property_details right_bottom_borders" style="height:400px;">
 						<div>
 							<h1>
-								EVALUATION OF PAST POLLUTION OF A REGION LAKE SEDIMENTS.
+								EVALUATION OF PAST POLLUTION OF A REGION LAKE SEDIMENTS. 
 							</h1>
 							<br/><br/><br/><br/><br/>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
