@@ -200,7 +200,7 @@
 				</li>
 			</ul>
 		</div>
-		<div class="hero blank" style="width: 150px; height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">SEE MORE</div>
+		<div class="hero blank btn">SEE MORE</div>
 	</section>
 	<!--  end grid section  -->
 
