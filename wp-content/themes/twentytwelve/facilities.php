@@ -24,6 +24,7 @@
 	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.css"/>
 	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/slick-theme.css"/>
 	
 </head>
 <body>
