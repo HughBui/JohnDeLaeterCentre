@@ -86,11 +86,11 @@
 }
 .slick-prev:before
 {
-    content: url('../img/social_media.png');
+    content: url('../img/previous.png');
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: '→';
+    content: url'../img/next.png';
 }
 
 .slick-next
@@ -104,11 +104,11 @@
 }
 .slick-next:before
 {
-    content: '→';
+    content: url'../img/next.png';
 }
 [dir='rtl'] .slick-next:before
 {
-    content: '←';
+    content: url'../img/previous.png';
 }
 
 /* Dots */
