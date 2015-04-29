@@ -200,7 +200,7 @@
 				</li>
 			</ul>
 		</div>
-		<a href="#" class="login_btn">SEE MORE</a>
+		<a href="#" class="btn">SEE MORE</a>
 	</section>
 	<!--  end grid section  -->
 
