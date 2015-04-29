@@ -229,7 +229,6 @@
 				isotopes are separated by a magnetic field and measured as samm ecectric currents. 
 		</p>
 		<div class="slider multiple-items" style="width:70%; margin: 0 auto;">
-			<button type="button" class="slick-prev">Previous</button>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/></div>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/></div>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/></div>
