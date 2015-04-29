@@ -220,7 +220,7 @@
 	<!--  end FEATURED PROJECTS section  -->
 	
 	<!--  FEATURED PROJECTS section  -->
-	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
+	<section class="listings" style="background-color:#000; border-top: 1px solid #dadada;">
 		<h3 class="caption" style="color:#666464; font-weight: lighter; margin-bottom:100px;">
 			OUR TIMS FACILITY INCORPORATES THERMO FINNEGAN<br/>TRITON&#0153; AND A VG 354 MULTICOLLECTOR MASS<br/>SPECTROMETERS. 
 		</h3>
@@ -228,8 +228,8 @@
 				The TIMS evaporates atoms from an unknown sample from a hot filament. The<br/>
 				isotopes are separated by a magnetic field and measured as samm ecectric currents. 
 		</p>
-		<button type="button" class="slick-prev">Previous</button>
 		<div class="slider multiple-items" style="width:70%; margin: 0 auto;">
+			<button type="button" class="slick-prev">Previous</button>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/></div>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/></div>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/></div>
