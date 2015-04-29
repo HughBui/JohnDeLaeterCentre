@@ -240,7 +240,7 @@
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
 			  prevArrow: "<img style='position:absolute; left:-70px; top:60px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>",
-			  nextArrow: "<img style='position:absolute; right:140px; top:60px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/next.png'/>"			  	  
+			  nextArrow: "<img style='position:absolute; right:-70px; top:60px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/next.png'/>"			  	  
 			});1
 		</script>
 	</section>
