@@ -173,8 +173,7 @@
 				</li>
 				<li>
 					<div class="property_details right_bottom_borders" style="height:400px; background: url(<?php bloginfo(stylesheet_directory); ?>/img/5.jpg) no-repeat; background-size: 100%;">
-						<div>
-							<br/><br/><br/><br/>
+						<div style="position:absolute; bottom:20px;">
 							<h1>
 								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
 							</h1>
