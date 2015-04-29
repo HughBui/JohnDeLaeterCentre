@@ -160,10 +160,11 @@
 				<li>
 					<div class="property_details right_bottom_borders" style="height:400px;">
 						<div>
-							<h1 style="line-height:80%;">
+							<h1>
 								ISOTOPIC<br/>FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
 							</h1>
-							<p style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif;">
+							<br/><br/><br/><br/><br/>
+							<p style="color: #666464; font-family: 'lato', Helvetica, Arial, sans-serif;">
 								<b>May 1, 2012</b><br/>
 								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
 							</p>
