@@ -238,7 +238,7 @@
 			  infinite: true,
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
-			  prevArrow: "<img style='position:absolute; left:0px; top:0px;' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>"			  
+			  prevArrow: "<img style='position:absolute; left:-50px; top:100px;' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>"			  
 			});1
 		</script>
 	</section>
