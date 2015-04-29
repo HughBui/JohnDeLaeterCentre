@@ -540,8 +540,7 @@ header nav .login_btn:hover{
 
 .listings ul li .property_details.right_bottom_borders{
 	border: none;
-	border-right: 1px solid #eaeaea;
-	border-bottom: 1px solid #eaeaea;
+	box-shadow: 10px 10px 5px #eaeaea;
 }
 
 .listings ul li:hover .property_details{
