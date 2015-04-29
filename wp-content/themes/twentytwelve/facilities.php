@@ -228,10 +228,10 @@
 				The TIMS evaporates atoms from an unknown sample from a hot filament. The<br/>
 				isotopes are separated by a magnetic field and measured as samm ecectric currents. 
 		</p>
-		<div class="carousel">
-			<div>your content</div>
-			<div>your content</div>
-			<div>your content</div>
+		<div class="carousel" style="width:70%; margin: 0 auto;">
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/></div>
 		</div>
 		<script>
 			$('.carousel').slick({
