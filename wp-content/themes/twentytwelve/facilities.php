@@ -238,7 +238,7 @@
 			  infinite: true,
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
-			  prevArrow: url(<?php bloginfo(stylesheet_directory); ?>/img/.png)			  
+			  prevArrow: url(<?php bloginfo(stylesheet_directory); ?>/img/previous.png)			  
 			});
 		</script>
 	</section>
