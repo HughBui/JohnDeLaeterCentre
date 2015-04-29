@@ -153,8 +153,8 @@
 	<!--  end APPLICATIONS section  -->
 	
 	<!--  grid section  -->
-	<section class="listings" style="background-color:#f2f2f2;">
-		<h2 class="caption" style="color:#b463b0; font-weight: bold;">APPLICATIONS</h2>
+	<section class="listings" style="background-color:#f2f2f2; border-bottom: 3px solid #dadada;">
+		<h2 class="caption" style="color:#b463b0; font-weight: bold; margin-bottom:100px;">APPLICATIONS</h2>
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
