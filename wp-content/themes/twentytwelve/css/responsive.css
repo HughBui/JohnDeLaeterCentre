@@ -847,10 +847,6 @@ footer .copyrights a.ph_link{
         text-align: center;
         background: #f2f3f3;
     }
-	
-	.hero.blank.btn:hover{
-		background: #dadada;
-	}
 
     header nav ul{
         display: block;
