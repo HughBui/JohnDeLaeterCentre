@@ -847,18 +847,6 @@ footer .copyrights a.ph_link{
         text-align: center;
         background: #f2f3f3;
     }
-	
-	.btn{
-		float: none;
-        display: inline-block;
-        width: 100%;
-        border: 1px solid #dadada;;
-        margin: 0;
-        padding: 20px 0;
-        text-align: center;
-        background: #f2f2f2;
-		color:#dadada;
-	}
 
     header nav ul{
         display: block;

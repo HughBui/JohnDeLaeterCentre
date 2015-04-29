@@ -200,7 +200,7 @@
 				</li>
 			</ul>
 		</div>
-		<a href="#" class="btn">SEE MORE</a>
+		<h2 class="caption" style="border: 1px solid #dadada;">SEE MORE</h2>
 	</section>
 	<!--  end grid section  -->
 
