@@ -229,17 +229,18 @@
 				isotopes are separated by a magnetic field and measured as samm ecectric currents. 
 		</p>
 		<div class="slider multiple-items" style="width:50%; margin: 0 auto;">
-			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/1.JPG"/></div>
-			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/></div>
-			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/7.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/></div>
+			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/7.JPG"/></div>
 		</div>
 		<script>
 			$('.multiple-items').slick({
 			  infinite: true,
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
-			  prevArrow: "<img style='position:absolute; left:-70px; top:90px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>",
-			  nextArrow: "<img style='position:absolute; right:0px; top:90px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/next.png'/>"			  	  
+			  prevArrow: "<img style='position:absolute; left:-70px; top:70px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/previous.png'/>",
+			  nextArrow: "<img style='position:absolute; right:70px; top:70px; cursor:pointer' src='<?php bloginfo(stylesheet_directory); ?>/img/next.png'/>"			  	  
 			});1
 		</script>
 	</section>
