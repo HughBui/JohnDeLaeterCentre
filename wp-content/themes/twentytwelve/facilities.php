@@ -206,9 +206,9 @@
 		<script>
 			$(".hero.blank.btn").hover(
 			  function() {
-				alert("in");
+				$(this).css("background","#dadada");
 			  }, function() {
-				alert("out");
+				$(this).css("background","");
 			  }
 			);
 		</script>
