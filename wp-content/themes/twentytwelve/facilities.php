@@ -153,8 +153,71 @@
 	<!--  end APPLICATIONS section  -->
 	
 	<!--  FEATURED PROJECTS section  -->
-	<section class="listings" style="background-color:#f2f2f2; border-top: 1px solid #dadada;; border-bottom: 1px solid #dadada;">
+	<section class="listings" style="background-color:#f2f2f2; border-top: 1px solid #dadada;">
 		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
+		<div class="wrapper">
+			<ul class="properties_list">
+				<li>
+					<div class="property_details right_bottom_borders" style="height:400px;">
+						<div>
+							<h1>
+								ISOTOPIC<br/>FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
+							</h1>
+							<br/><br/><br/><br/><br/>
+							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+								<b>May 1, 2012</b><br/>
+								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details right_bottom_borders" style="height:400px; background: url(<?php bloginfo(stylesheet_directory); ?>/img/5.jpg) no-repeat; background-size: 100%;">
+						<div style="position:absolute; bottom:20px;">
+							<h1>
+								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
+							</h1>
+							<br/>
+							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+								<b>April 26, 2012</b>
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details right_bottom_borders" style="height:400px;">
+						<div>
+							<h1>
+								EVALUATION OF PAST POLLUTION OF A REGION LAKE SEDIMENTS. 
+							</h1>
+							<br/><br/><br/><br/><br/>
+							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+								<b>May 1, 2012</b><br/>
+								John de theter Centre researchers discovered the Earth's oldest crustal fragments at Jack Hills, Western Australia. Lavern ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magma align. Lit enitn ad minim veniam, quis nostrud exercitation ullarnco la boris nisi ut aliquip ex ea commode oonsequat. Du is ante irtn'e 
+							</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+		</div>
+		<script>
+			$(".hero.blank.btn").hover(
+			  function() {
+				$(this).css("background","#dadada");
+			  }, function() {
+				$(this).css("background","");
+			  }
+			);
+		</script>
+	</section>
+	<!--  end FEATURED PROJECTS section  -->
+	
+	<!--  FEATURED PROJECTS section  -->
+	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
+		<h2 class="caption" style="color:#666464; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
