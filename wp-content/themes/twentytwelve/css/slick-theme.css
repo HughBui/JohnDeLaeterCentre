@@ -16,11 +16,6 @@
     src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
-.slick-prev {
-  /*my style*/
-  background: url('../img/previous.png') !important;
-}
-
 .slick-prev,
 .slick-next
 {
@@ -91,7 +86,7 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: url('../img/previous.png');
 }
 [dir='rtl'] .slick-prev:before
 {
