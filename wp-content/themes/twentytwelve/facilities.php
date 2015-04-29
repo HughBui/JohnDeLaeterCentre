@@ -190,7 +190,7 @@
 							<h1>
 								EVALUATION OF PAST POLLUTION OF A REGION LAKE SEDIMENTS.
 							</h1>
-							<br/>
+							<br/><br/><br/><br/><br/>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
 								<b>May 1, 2012</b><br/>
 								John de theter Centre researchers discovered the Earth's oldest crustal fragments at Jack Hills, Western Australia. Lavern ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magma align. Lit enitn ad minim veniam, quis nostrud exercitation ullarnco la boris nisi ut aliquip ex ea commode oonsequat. Du is ante irtn'e 
@@ -200,6 +200,7 @@
 				</li>
 			</ul>
 		</div>
+		<a href="#" class="login_btn">SEE MORE</a>
 	</section>
 	<!--  end grid section  -->
 
