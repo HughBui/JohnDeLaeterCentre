@@ -161,13 +161,11 @@
 					<div class="property_details right_bottom_borders" style="height:400px;">
 						<div>
 							<h1>
-								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>
+								ISOTOPIC FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
 							</h1>
-							<p style="position: absolute; bottom:20px; right: 20px;">
-								Dr Allen Kennedy
-							</p>
-							<p style="color:white; display:none; position: absolute; bottom:20px; left: 20px;">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus viverra ante quam, sit amet faucibus metus aliquet sit amet. Pellentesque mollis suscipit arcu eget lobortis.
+							<p>
+								<b>May 1, 2012</b>
+								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
 							</p>
 						</div>
 					</div>
