@@ -233,16 +233,12 @@
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/2.JPG"/></div>
 			<div><img src="<?php bloginfo(stylesheet_directory); ?>/img/3.JPG"/></div>
 		</div>
-		<style>
-			.slick-prev {
-			  background: url(<?php bloginfo(stylesheet_directory); ?>/img/.png);
-			}
-		</style>
 		<script>
 			$('.multiple-items').slick({
 			  infinite: true,
 			  slidesToShow: 2,
-			  slidesToScroll: 2
+			  slidesToScroll: 2,
+			  prevArrow: url(<?php bloginfo(stylesheet_directory); ?>/img/.png)			  
 			});
 		</script>
 	</section>
