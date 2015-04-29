@@ -217,7 +217,9 @@
 	
 	<!--  FEATURED PROJECTS section  -->
 	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
-		<h2 class="caption" style="color:#666464; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
+		<h3 class="caption" style="color:#666464; font-weight: bold; margin-bottom:100px;">
+			OUR TIMS FACILITY INCORPORATES THERMO FINNEGAN TRITON&#0153; AND A VG 354 MULTICOLLECTOR MASS SPECTROMETERS. 
+		</h3>
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
