@@ -238,7 +238,7 @@
 			  infinite: true,
 			  slidesToShow: 2,
 			  slidesToScroll: 2,
-			  prevArrow: url(<?php bloginfo(stylesheet_directory); ?>/img/previous.png)			  
+			  prevArrow: "<button type='button' class='slick-prev'>Previous</button>"			  
 			});
 		</script>
 	</section>
