@@ -152,13 +152,13 @@
 	</section>
 	<!--  end APPLICATIONS section  -->
 	
-	<!--  grid section  -->
-	<section class="listings" style="background-color:#f2f2f2; border-top: 2px solid #dadada;; border-bottom: 2px solid #dadada;">
-		<h2 class="caption" style="color:#b463b0; font-weight: bold; margin-bottom:100px;">APPLICATIONS</h2>
+	<!--  FEATURED PROJECTS section  -->
+	<section class="listings" style="background-color:#f2f2f2; border-top: 1px solid #dadada;; border-bottom: 1px solid #dadada;">
+		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:200px; border-bottom: 3px solid #d92fb6;">
+					<div class="property_details right_bottom_borders" style="height:400px;">
 						<div>
 							<h1>
 								<a href="#">ICPMS (Inductively Coupled Plasma - Mass Spectrometry)</a>

@@ -538,6 +538,12 @@ header nav .login_btn:hover{
     -o-transition: all .2s linear;
 }
 
+.listings ul li .property_details.right_bottom_borders{
+	border: none;
+	border-right: 1px solid #eaeaea;
+	border-bottom: 1px solid #eaeaea;
+}
+
 .listings ul li:hover .property_details{
     /*border-bottom: 1px solid #95badf;
     border-left: 1px solid #95badf;
