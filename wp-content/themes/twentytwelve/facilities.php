@@ -255,7 +255,7 @@
 					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
-								• Evaluation of past pollution of a region lake sediments.<br/>
+								• Evaluation of past pollution of a region lake sediments.<br/><br/>
 								• Propagation of pollution through soils.
 							</p>
 						</div>
@@ -265,7 +265,7 @@
 					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
-								• Evaluation of past pollution of a region lake sediments.<br/> 
+								• Evaluation of past pollution of a region lake sediments.<br/><br/> 
 								• Propagation of pollution through soils.
 							</p>
 						</div>
