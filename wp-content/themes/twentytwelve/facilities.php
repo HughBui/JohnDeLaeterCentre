@@ -324,7 +324,7 @@
 							<h1 style="color:#000">
 								K-AR GEOCHRONOLOGY
 							</h1>
-							<p style="color: #000; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #000; font-family: 'Times New Roman', Georgia, Serif;">
 								Noreen.evans@csiro.au<br/>
 								Ph: +61 8 9266 2108
 							</p>
@@ -333,7 +333,7 @@
 				</li>
 			</ul>
 		</div>
-		<div style="background-color:#ffffff; border-top: 1px solid #dadada;">
+		<div class="box">
 			<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
 				<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
 			</div>
