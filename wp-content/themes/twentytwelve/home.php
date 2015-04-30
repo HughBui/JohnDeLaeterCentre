@@ -24,7 +24,7 @@
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
-						<li><a href="#">Facilities</a></li>
+						<li><a class="menu" href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
 					</ul>
