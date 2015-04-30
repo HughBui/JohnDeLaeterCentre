@@ -252,20 +252,20 @@
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:100px; text-align:left; color: #666464; border: none;">
+					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
-								• Evaluation of past pollution of a region lake sediments. 
+								• Evaluation of past pollution of a region lake sediments.<br/>
 								• Propagation of pollution through soils.
 							</p>
 						</div>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
-								• Evaluation of past pollution of a region lake sediments. 
+								• Evaluation of past pollution of a region lake sediments.<br/> 
 								• Propagation of pollution through soils.
 							</p>
 						</div>
