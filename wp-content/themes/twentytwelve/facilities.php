@@ -283,7 +283,7 @@
 			<ul class="properties_list">
 				<li>
 					<div class="property_details" style="height:300px; text-align:center; border:none;">
-						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<div class="round_img" style="background: url(<?php bloginfo(stylesheet_directory); ?>/img/6.JPG) no-repeat;"></div>
 						<div>
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2
@@ -303,12 +303,7 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:300px; text-align:center;border:none;">
-						<img class="" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
-						<script>
-						$(function() {
-							$('.img-round').roundImage();
-						});
-						</script>
+						<div class="round_img" style="background: url(<?php bloginfo(stylesheet_directory); ?>/img/6.JPG) no-repeat;"></div>
 						<div>
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2

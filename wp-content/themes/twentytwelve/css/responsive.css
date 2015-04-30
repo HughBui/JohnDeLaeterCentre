@@ -272,6 +272,14 @@ header nav .login_btn:hover{
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 600, from(#dadada), to(#fff));
 }
 
+.round_img {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
 
 
 
