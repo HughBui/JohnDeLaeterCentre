@@ -24,7 +24,7 @@
 	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.css"/>
 	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.0/slick.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="<?php bloginfo(stylesheet_directory); ?>/css/slick-theme.css"/>
+    <script type="text/javascript" src="<?php bloginfo(stylesheet_directory); ?>/js/jquery.roundimage.js"></script>
 	
 </head>
 <body>
@@ -277,18 +277,18 @@
 	<!--  end TECHNIQUES section  -->
 
 	<!-- CONTACTS section  -->
-	<section class="listings" style="background-color:#f2f2f2; border-top: 1px solid #dadada;">
+	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
 		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details right_bottom_borders" style="height:400px;">
+					<div class="property_details" style="height:400px;">
 						<div>
 							<h1>
 								ISOTOPIC<br/>FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
 							</h1>
 							<br/><br/><br/><br/><br/>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #666464; font-family: 'Times New Roman', Georgia, Serif;">
 								<b>May 1, 2012</b><br/>
 								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
 							</p>
@@ -296,7 +296,13 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details right_bottom_borders" style="height:400px; background: url(<?php bloginfo(stylesheet_directory); ?>/img/5.jpg) no-repeat; background-size: 100%;">
+					<div class="property_details" style="height:400px;">
+						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<script>
+						$(document).ready(function() {
+							$('.img-round').roundImage();
+						});
+						</script>
 						<div style="position:absolute; bottom:20px;">
 							<h1>
 								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
