@@ -248,17 +248,15 @@
 	
 	<!--  TECHNIQUES section  -->
 	<section class="listings" style="border-top: 1px solid #dadada;">	
-		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">TECHNIQUES</h2>
+		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:50px;">TECHNIQUES</h2>
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+					<div class="property_details" style="height:100px; text-align:left; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
-							<h1>
-								Environmental
-							</h1>
 							<p>
-								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
+								• Evaluation of past pollution of a region lake sediments. 
+								• Propagation of pollution through soils.
 							</p>
 						</div>
 					</div>
@@ -266,35 +264,9 @@
 				<li>
 					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
-							<h1>
-								Geosciences
-							</h1>
 							<p>
-								Ceochronolow U/Pb, Pb/Pb. Sm/Nd. Kb/Sr. K/Ca.
-							</p>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
-						<div style="width:70%; margin: 0 auto;">
-							<h1>
-								Health 
-							</h1>
-							<p>
-								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
-							</p>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
-						<div style="width:70%; margin: 0 auto;">
-							<h1>
-								Chemical Metrology 
-							</h1>
-							<p>
-								Calibration of standards for isotopic composition and concentration. Isotopic abundances and atomic weights. 
+								• Evaluation of past pollution of a region lake sediments. 
+								• Propagation of pollution through soils.
 							</p>
 						</div>
 					</div>
