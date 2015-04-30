@@ -325,15 +325,15 @@
 		</div>
 		<span class="fading_line"></span>
 		<div style="width: 80%; margin: 0 auto;">
-				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: white; background: #8e509b; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">ENQUERY</span>
+				<div class="hero blank btn" style="background: #8e509b; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">ENQUERY</span>
 				</div>
-				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: white; background: #84509a; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">DOWNLOAD BROCHURE</span>
+				<div class="hero blank btn" style="background: #84509a; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">DOWNLOAD BROCHURE</span>
 				</div>
 
-				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: white; background: #7f5ca0; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">BOOK THIS FACILITY</span>
+				<div class="hero blank btn" style="background: #7f5ca0; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">BOOK THIS FACILITY</span>
 				</div>
 
 		</div>
