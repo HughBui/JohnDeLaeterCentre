@@ -270,6 +270,7 @@ header nav .login_btn:hover{
     height:1px;
     background:#dadada;
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 600, from(#dadada), to(#fff));
+	margin-bottom: 20px;
 }
 
 
