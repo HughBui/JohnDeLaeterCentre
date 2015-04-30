@@ -297,7 +297,7 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:400px;">
-						<img src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<img style="display:block; margin:auto;" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
 						$(document).ready(function() {
 							$('.img-round').roundImage();
