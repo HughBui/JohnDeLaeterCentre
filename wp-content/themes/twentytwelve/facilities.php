@@ -282,8 +282,8 @@
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:300px; text-align:center;">
-						<img class="" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+					<div class="property_details" style="height:300px; text-align:center; border:none;">
+						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<div>
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2
@@ -329,6 +329,12 @@
 			</ul>
 		</div>
 		<span class="fading_line"></span>
+		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+		</div>
+		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+		</div>
 		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
 			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
 		</div>
