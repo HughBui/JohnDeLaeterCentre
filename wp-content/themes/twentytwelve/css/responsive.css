@@ -879,7 +879,7 @@ footer .copyrights a.ph_link{
         margin-left: 0;
     }
 
-    header div nav ul li a{
+    header nav ul li a{
         display: block;
         padding: 25px 0;
         border-bottom: 1px solid #f2f3f3;
@@ -890,8 +890,8 @@ footer .copyrights a.ph_link{
         -o-transition: background .2s linear;
     }
 
-    header div nav ul li a:active{
-        background: #f2f3f3;
+    header nav ul li a:active{
+        background: black;
     }
 
     header nav ul li a,
