@@ -296,7 +296,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:400px;">
+					<div class="property_details" style="height:400px; text-align:center;">
 						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
 						$(document).ready(function() {
