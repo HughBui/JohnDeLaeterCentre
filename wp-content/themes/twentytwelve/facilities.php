@@ -246,8 +246,9 @@
 	</section>
 	<!--  end CAROUSEL section  -->
 	
-	<!--  APPLICATIONS section  -->
-	<section class="listings">	
+	<!--  TECHNIQUES section  -->
+	<section class="listings" style="border-top: 1px solid #dadada;">	
+		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">TECHNIQUES</h2>
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
@@ -301,7 +302,7 @@
 			</ul>
 		</div>
 	</section>
-	<!--  end APPLICATIONS section  -->
+	<!--  end TECHNIQUES section  -->
 
 	<!--  footer section  -->
 	<div style="width:100%; overflow: hidden; background: #303030;">
