@@ -284,11 +284,6 @@
 				<li>
 					<div class="property_details" style="height:300px; text-align:center;">
 						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
-						<script>
-						$(document).ready(function() {
-							$('.img-round').roundImage();
-						});
-						</script>
 						<div>
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2
