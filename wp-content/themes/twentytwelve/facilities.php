@@ -36,7 +36,7 @@
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
-						<li><a href="#">Facilities</a></li>
+						<li id="selected"><a href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
 					</ul>
@@ -365,5 +365,16 @@
 		<img src="<?php bloginfo(stylesheet_directory); ?>/img/copywrite.jpg" style="float:right; margin-right:10%;"/>
 	</div>
 	<!--  end footer section  -->
+	
+	<!-- scripts to hover menu -->
+	<script>
+		$("header nav ul li:not(#selected)").hover(
+			function() {
+				$(this).css('border-bottom','1px solid #ffffff'); 
+			}, function() {
+				$(this).css('border-bottom',''); 
+			}
+		);
+	</script>
 </body>
 </html>
