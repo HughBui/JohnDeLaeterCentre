@@ -326,7 +326,7 @@
 		<span class="fading_line"></span>
 	</section>
 	
-	<section class="listings" style="height 100px !important;">
+	<section class="listings">
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
