@@ -304,16 +304,16 @@
 						});
 						</script>
 						<div>
-							<h1 style="color:#5bb3b5; font-size: 50px;">
+							<h1 style="color:#5bb3b5; font-size: 50px !important;">
 								Dr Person 2
 							</h1>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
 								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
 							</p>
-							<h1>
+							<h1 style="color:#000">
 								K-AR GEOCHRONOLOGY
 							</h1>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #000; font-family: "Times New Roman", Georgia, Serif;">
 								Noreen.evans@csiro.au<br/>
 								Ph: +61 8 9266 2108
 							</p>
