@@ -303,9 +303,9 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:300px; text-align:center;border:none;">
-						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<img class="" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
-						$(document).ready(function() {
+						$(function() {
 							$('.img-round').roundImage();
 						});
 						</script>
@@ -331,8 +331,7 @@
 		<span class="fading_line"></span>
 	</section>
 	
-	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
-		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
+	<section class="listings" style="height 200px;">
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
