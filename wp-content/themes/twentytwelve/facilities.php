@@ -324,39 +324,18 @@
 			</ul>
 		</div>
 		<span class="fading_line"></span>
-	</section>
-	
-	<section class="listings" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">	
-		<div class="wrapper" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">
-			<ul class="properties_list" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">
-				<li>
-					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464;">
-						<div style="width:70%; margin: 0 auto;">
-							<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-								<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464;">
-						<div style="width:70%; margin: 0 auto;">
-							<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-								<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464;">
-						<div style="width:70%; margin: 0 auto;">
-							<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-								<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-							</div>
-						</div>
-					</div>
-				</li>
-			</ul>
+		<div style="width: 80%; margin: 0 auto;">
+				<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+				</div>
+				<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+				</div>
+
+				<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+				</div>
+
 		</div>
 	</section>
 	<!--  end CONTACTS section  -->
