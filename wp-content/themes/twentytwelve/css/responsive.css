@@ -194,8 +194,9 @@ header nav .login_btn:hover{
     color: #1c3655;
 }
 
-
-
+#selected{
+	border-bottom: 1px solid #ffffff;
+}
 
 
 
@@ -216,16 +217,26 @@ header nav .login_btn:hover{
     -o-background-size: cover;
 }
 
-.hero .caption{
-    width: 100%;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    margin-top: -50px;
-    z-index: 10;
+.facilitiesTop{
+	height: 800px;
+    background: url('../img/facilitiesTop.jpg') no-repeat top center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 
-.hero .caption h2{
+.blank{
+	background:none;
+}
+
+.caption{
+    width: 100%;
+    text-align: center;
+	color: #fff;
+}
+
+.caption h2{
     color: #fff;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 30px;
@@ -235,18 +246,42 @@ header nav .login_btn:hover{
     display: block;
 }
 
-.hero .caption h3{
+.caption h3{
 	color: #fff;
     font-family: "lato-regular", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    margin: 40px 0 0 25px;
+    margin: 40px 0 0 0px;
+    left: 1px;
+}
+
+.caption p{
+	color: #fff;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size:18px;
+	line-height: 150%; 
+    margin: 40px 0 0 0px;
     left: 1px;
 }
 
 
+.fading_line{ 
+    display:block;
+    border:none;
+    color:white;
+    height:1px;
+    background:#dadada;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 600, from(#dadada), to(#fff));
+	margin-bottom:50px;
+}
 
-
-
+.round_img {
+	width: 120px;
+	height: 120px;
+	margin: 0 auto;
+	border-radius: 60px;
+	-webkit-border-radius: 60px;
+	-moz-border-radius: 60px;
+}
 
 
 
@@ -475,6 +510,11 @@ header nav .login_btn:hover{
     margin: 0 3.636363636363636% 3.636363636363636% 0;
 }
 
+.listings ul.properties_list.two li{
+    width: 50%;
+	margin: 0 0 0 0;
+}
+
 .listings ul.properties_list li img.property_img{
     width: 100%;
     height: auto!important;
@@ -514,6 +554,11 @@ header nav .login_btn:hover{
     -webkit-transition: all .2s linear;
     -moz-transition: all .2s linear;
     -o-transition: all .2s linear;
+}
+
+.listings ul li .property_details.right_bottom_borders{
+	border: none;
+	box-shadow: 10px 10px 5px #eaeaea;
 }
 
 .listings ul li:hover .property_details{
@@ -773,6 +818,10 @@ footer .copyrights a.ph_link{
     .hero{
         height: 600px;
     }
+	
+	.hero.facilitiesTop{
+		height:800px;
+	}
 
     .hero .caption{
         width: 92.72727272727273%;
@@ -861,6 +910,11 @@ footer .copyrights a.ph_link{
 
     .listings ul.properties_list li{
         width: 46.36363636363636%;
+        margin: 0 7.272727272727273% 7.272727272727273% 0;
+    }
+	
+	.listings ul.properties_list.two li{
+        width: 100%;
         margin: 0 7.272727272727273% 7.272727272727273% 0;
     }
 
@@ -952,12 +1006,15 @@ footer .copyrights a.ph_link{
         margin-bottom: 0!important;
     }
 
+	.listings ul.properties_list.two li:last-child{
+        margin-bottom: 0!important;
+    }
 
     .listings ul.properties_list li:nth-child(3n+0),
     .listings ul.properties_list li:nth-child(2n+0){
         margin:0;
     }
-
+	
     .listings .more_listing_btn{
         display: block;
         width: 100%; 
