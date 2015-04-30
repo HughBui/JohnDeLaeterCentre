@@ -304,9 +304,9 @@
 						});
 						</script>
 						<div>
-							<span style="color:#5bb3b5; text-size: 50px;">
+							<h1 style="color:#5bb3b5; font-size: 25px;">
 								Dr Person 2
-							</span>
+							</h1>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
 								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
 							</p>
