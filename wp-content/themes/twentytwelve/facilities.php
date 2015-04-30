@@ -326,41 +326,32 @@
 		<span class="fading_line"></span>
 	</section>
 	
-	<section class="listings">
+	<section class="listings" style="border-top: 1px solid #dadada;">	
+		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:50px;">TECHNIQUES</h2>
 		<div class="wrapper">
-			<ul class="properties_list">
+			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:100px; text-align:center; border:none;">
-						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<p>
+								• Evaluation of past pollution of a region lake sediments.<br/><br/>
+								• Propagation of pollution through soils.
+							</p>
 						</div>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:center;border:none;">
-						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="property_details" style="height:100px; text-align:center;border:none;">
-						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<p>
+								• Evaluation of past pollution of a region lake sediments.<br/><br/> 
+								• Propagation of pollution through soils.
+							</p>
 						</div>
 					</div>
 				</li>
 			</ul>
 		</div>
-		<script>
-			$(".hero.blank.btn").hover(
-			  function() {
-				$(this).css("background","#dadada");
-			  }, function() {
-				$(this).css("background","");
-			  }
-			);
-		</script>
 	</section>
 	<!--  end CONTACTS section  -->
 	
