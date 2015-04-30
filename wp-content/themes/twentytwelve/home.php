@@ -19,7 +19,7 @@
 	<!-- header section  -->
 	<section class="hero" style="height:500px;">
 		<header>
-			<div class="wrapper">
+			
 				<img class="logo" src="<?php bloginfo(stylesheet_directory); ?>/img/logo.png"/>
 				<a href="#" class="hamburger"></a>
 				<nav>
@@ -30,7 +30,7 @@
 					</ul>
 					<a href="#" class="login_btn">Contact</a>
 				</nav>
-			</div>
+			
 		</header>
 
 			<section class="caption" style="margin-top:100px;">
