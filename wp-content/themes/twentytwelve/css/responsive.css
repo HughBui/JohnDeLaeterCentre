@@ -194,6 +194,10 @@ header nav .login_btn:hover{
     color: #1c3655;
 }
 
+#selected{
+	border-bottom: 1px solid #ffffff;
+}
+
 
 
 

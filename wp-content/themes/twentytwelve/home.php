@@ -24,10 +24,19 @@
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
-						<li style="border-bottom: 2px solid #ffffff;"><a href="#">Facilities</a></li>
+						<li id="selected"><a href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
 					</ul>
+					<script>
+						$("header nav ul li:not(#selected)").hover(
+							function() {
+								$(this).css('border-bottom','1px solid #ffffff'); 
+							}, function() {
+								$(this).css('border-bottom',''); 
+							}
+						);
+					</script>
 					<a href="#" class="login_btn">Contact</a>
 				</nav>
 			</div>
