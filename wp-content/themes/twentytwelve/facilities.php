@@ -325,14 +325,14 @@
 		</div>
 		<span class="fading_line"></span>
 		<div style="width: 80%; margin: 0 auto; border: 1px solid #dadada;">
-				<div class="hero blank btn" style="width: 150px; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left;">
+				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
 					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
 				</div>
-				<div class="hero blank btn" style="width: 150px; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left;">
+				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
 					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
 				</div>
 
-				<div class="hero blank btn" style="width: 150px; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left;">
+				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
 					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
 				</div>
 
