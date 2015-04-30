@@ -304,7 +304,7 @@
 						});
 						</script>
 						<div>
-							<h1 style="color:#5bb3b5; font-size: 25px;">
+							<h1 style="color:#5bb3b5; font-size: 50px;">
 								Dr Person 2
 							</h1>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
