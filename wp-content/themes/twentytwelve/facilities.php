@@ -326,12 +326,12 @@
 		<span class="fading_line"></span>
 	</section>
 	
-	<section class="listings" style="border-top: 1px solid #dadada;">	
+	<section class="listings">	
 		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:50px;">TECHNIQUES</h2>
 		<div class="wrapper">
 			<ul class="properties_list two">
 				<li>
-					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
+					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
 								• Evaluation of past pollution of a region lake sediments.<br/><br/>
@@ -341,7 +341,7 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:100px; text-align:left; font-size:20px; color: #666464; border: none;">
+					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
 							<p>
 								• Evaluation of past pollution of a region lake sediments.<br/><br/> 
