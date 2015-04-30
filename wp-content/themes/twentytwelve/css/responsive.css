@@ -879,12 +879,11 @@ footer .copyrights a.ph_link{
         margin-left: 0;
     }
 
-    header nav ul li a,
-	.menu{
+    header nav ul li a{
         display: block;
         padding: 25px 0;
         border-bottom: 1px solid #f2f3f3;
-
+		color:black;
         transition: background .2s linear;
         -webkit-transition: background .2s linear;
         -moz-transition: background .2s linear;
