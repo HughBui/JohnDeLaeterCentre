@@ -24,7 +24,7 @@
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<ul>
-						<li><a class="selected" href="#">Facilities</a></li>
+						<li><a style="border-bottom: 2px solid #ffffff;" href="#">Facilities</a></li>
 						<li><a href="#">Instruments</a></li>
 						<li><a href="#">Research</a></li>
 					</ul>
