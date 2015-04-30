@@ -297,19 +297,25 @@
 				</li>
 				<li>
 					<div class="property_details" style="height:400px;">
-						<img class="img-round" style="display:block; margin:auto;" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
 						$(document).ready(function() {
 							$('.img-round').roundImage();
 						});
 						</script>
-						<div style="position:absolute; bottom:20px;">
-							<h1>
-								DETECTION OF LONG RANGE POLLUTION TRANSPORT ON AEROSOLS.
+						<div>
+							<h1 style="color:#5bb3b5;">
+								Dr Person 2
 							</h1>
-							<br/>
 							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
-								<b>April 26, 2012</b>
+								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
+							</p>
+							<h1>
+								K-AR GEOCHRONOLOGY
+							</h1>
+							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+								Noreen.evans@csiro.au<br/>
+								Ph: +61 8 9266 2108
 							</p>
 						</div>
 					</div>
