@@ -327,9 +327,8 @@
 	</section>
 	
 	<section class="listings">	
-		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:50px;">TECHNIQUES</h2>
 		<div class="wrapper">
-			<ul class="properties_list two">
+			<ul class="properties_list">
 				<li>
 					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464; border: none;">
 						<div style="width:70%; margin: 0 auto;">
