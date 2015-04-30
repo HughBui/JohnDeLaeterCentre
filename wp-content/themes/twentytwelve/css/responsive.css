@@ -194,16 +194,8 @@ header nav .login_btn:hover{
     color: #1c3655;
 }
 
-header nav ul li a{
-	margin: 30px 0 0 50px;
-    padding: 10px 30px 11px 30px;
+.selected{
     border-bottom: 2px solid #ffffff;
-    background: transparent;
-
-    transition: background .1s linear;
-    -webkit-transition: background .1s linear;
-    -moz-transition: background .1s linear;
-    -o-transition: background .1s linear;
 }
 
 
