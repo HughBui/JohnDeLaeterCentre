@@ -324,16 +324,16 @@
 			</ul>
 		</div>
 		<span class="fading_line"></span>
-		<div style="width: 80%; margin: 0 auto; border: 1px solid #dadada;">
+		<div style="width: 80%; margin: 0 auto;">
 				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+					<span style="color: #8e509b; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">ENQUERY</span>
 				</div>
 				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+					<span style="color: #84509a; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">DOWNLOAD BROCHURE</span>
 				</div>
 
 				<div class="hero blank btn" style="width: 20%; height:30px; line-height:30px; text-align:center; border: 1px solid #dadada; float:left; margin-left: 10%;">
-					<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+					<span style="color: #7f5ca0; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">BOOK THIS FACILITY</span>
 				</div>
 
 		</div>
