@@ -282,21 +282,32 @@
 		<div class="wrapper">
 			<ul class="properties_list">
 				<li>
-					<div class="property_details" style="height:400px;">
+					<div class="property_details" style="height:300px; text-align:center;">
+						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+						<script>
+						$(document).ready(function() {
+							$('.img-round').roundImage();
+						});
+						</script>
 						<div>
-							<h1>
-								ISOTOPIC<br/>FINGERPRINTING OF LEAD IN GREENLAND AND ANTARCTIC SNOW AND ICE. 
+							<h1 style="color:#5bb3b5; font-size: 25px !important;">
+								Dr Person 2
 							</h1>
-							<br/><br/><br/><br/><br/>
-							<p style="color: #666464; font-family: 'Times New Roman', Georgia, Serif;">
-								<b>May 1, 2012</b><br/>
-								WA Minister for Science and Innovation John Day visited the John de Laeter Centre for Mass Spectrometry Stage II (JDUC) to congratulate the Centre on its innovative research, which has benefited the minerals and petroleum industry and the environmental sector in Western 
+							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
+							</p>
+							<h1 style="color:#000">
+								K-AR GEOCHRONOLOGY
+							</h1>
+							<p style="color: #000; font-family: "Times New Roman", Georgia, Serif;">
+								Noreen.evans@csiro.au<br/>
+								Ph: +61 8 9266 2108
 							</p>
 						</div>
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:400px; text-align:center;">
+					<div class="property_details" style="height:300px; text-align:center;">
 						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
 						$(document).ready(function() {
@@ -322,8 +333,10 @@
 				</li>
 			</ul>
 		</div>
-		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+		<div style="background-color:#ffffff; border-top: 1px solid #dadada;">
+			<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+				<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+			</div>
 		</div>
 		<script>
 			$(".hero.blank.btn").hover(
