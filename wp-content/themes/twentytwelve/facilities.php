@@ -325,14 +325,14 @@
 		</div>
 		<span class="fading_line"></span>
 		<div style="width: 80%; margin: 0 auto;">
-				<div class="hero blank btn" style="background: #8e509b; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+				<div class="hero blank btn" style="background: #8e509b; width: 300px; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
 					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">ENQUERY</span>
 				</div>
-				<div class="hero blank btn" style="background: #84509a; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+				<div class="hero blank btn" style="background: #84509a; width: 300px; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
 					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">DOWNLOAD BROCHURE</span>
 				</div>
 
-				<div class="hero blank btn" style="background: #7f5ca0; width: 20%; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
+				<div class="hero blank btn" style="background: #7f5ca0; width: 300px; height:30px; line-height:30px; text-align:center; float:left; margin-left: 10%;">
 					<span style="color: white; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">BOOK THIS FACILITY</span>
 				</div>
 
