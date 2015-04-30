@@ -327,8 +327,8 @@
 	</section>
 	
 	<section class="listings" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">	
-		<div class="wrapper">
-			<ul class="properties_list">
+		<div class="wrapper" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">
+			<ul class="properties_list" style="border: 1px solid red; margin-top: -100px; height: 100px !important;">
 				<li>
 					<div class="property_details" style="height:50px; text-align:left; font-size:20px; color: #666464;">
 						<div style="width:70%; margin: 0 auto;">
