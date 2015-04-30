@@ -288,13 +288,13 @@
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2
 							</h1>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #666464; font-family: 'Times New Roman', Georgia, Serif;">
 								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
 							</p>
 							<h1 style="color:#000">
 								K-AR GEOCHRONOLOGY
 							</h1>
-							<p style="color: #000; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #000; font-family: 'Times New Roman', Georgia, Serif;">
 								Noreen.evans@csiro.au<br/>
 								Ph: +61 8 9266 2108
 							</p>
@@ -302,8 +302,8 @@
 					</div>
 				</li>
 				<li>
-					<div class="property_details" style="height:300px; text-align:center;">
-						<img class="" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
+					<div class="property_details" style="height:300px; text-align:center;border:none;">
+						<img class="img-round" src="<?php bloginfo(stylesheet_directory); ?>/img/6.JPG"/>
 						<script>
 						$(document).ready(function() {
 							$('.img-round').roundImage();
@@ -313,7 +313,7 @@
 							<h1 style="color:#5bb3b5; font-size: 25px !important;">
 								Dr Person 2
 							</h1>
-							<p style="color: #666464; font-family: "Times New Roman", Georgia, Serif;">
+							<p style="color: #666464; font-family: 'Times New Roman', Georgia, Serif;">
 								Deseripsum dolor sit amet, consectetur aclipisicing elk, sed do ehismod tempor 
 							</p>
 							<h1 style="color:#000">
@@ -329,14 +329,34 @@
 			</ul>
 		</div>
 		<span class="fading_line"></span>
-		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-		</div>
-		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
-		</div>
-		<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
-			<span style="color: #666464; font-family: "lato-bold", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+	</section>
+	
+	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
+		<h2 class="caption" style="color:#745e9f; font-weight: bold; margin-bottom:100px;">FEATURED PROJECTS</h2>
+		<div class="wrapper">
+			<ul class="properties_list">
+				<li>
+					<div class="property_details" style="height:300px; text-align:center; border:none;">
+						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:300px; text-align:center;border:none;">
+						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:300px; text-align:center;border:none;">
+						<div class="hero blank btn" style="width: 150px; height:50px; line-height:50px; text-align:center; border: 1px solid #dadada; margin: 0 auto;">
+							<span style="color: #666464; font-family: 'lato-bold', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold;">SEE MORE</span>
+						</div>
+					</div>
+				</li>
+			</ul>
 		</div>
 		<script>
 			$(".hero.blank.btn").hover(
