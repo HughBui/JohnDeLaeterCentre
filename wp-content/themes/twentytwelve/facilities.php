@@ -219,7 +219,7 @@
 	</section>
 	<!--  end FEATURED PROJECTS section  -->
 	
-	<!--  FEATURED PROJECTS section  -->
+	<!--  CAROUSEL section  -->
 	<section class="listings" style="background-color:#ffffff; border-top: 1px solid #dadada;">
 		<h3 class="caption" style="color:#666464; font-weight: lighter; margin-bottom:100px;">
 			OUR TIMS FACILITY INCORPORATES THERMO FINNEGAN<br/>TRITON&#0153; AND A VG 354 MULTICOLLECTOR MASS<br/>SPECTROMETERS. 
@@ -244,7 +244,64 @@
 			});1
 		</script>
 	</section>
-	<!--  end grid section  -->
+	<!--  end CAROUSEL section  -->
+	
+	<!--  APPLICATIONS section  -->
+	<section class="listings">	
+		<div class="wrapper">
+			<ul class="properties_list two">
+				<li>
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<h1>
+								Environmental
+							</h1>
+							<p>
+								Isotopic fingerprinting sources of pollutants. Trace metal analysis.
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<h1>
+								Geosciences
+							</h1>
+							<p>
+								Ceochronolow U/Pb, Pb/Pb. Sm/Nd. Kb/Sr. K/Ca.
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<h1>
+								Health 
+							</h1>
+							<p>
+								Isotopic tracing with stable isotopes. Bioavailability measurements. eg Calcium absorption for sensitive  patients - pregnant women, children. 
+							</p>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="property_details" style="height:100px; text-align:center; color: #666464; border: none;">
+						<div style="width:70%; margin: 0 auto;">
+							<h1>
+								Chemical Metrology 
+							</h1>
+							<p>
+								Calibration of standards for isotopic composition and concentration. Isotopic abundances and atomic weights. 
+							</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<!--  end APPLICATIONS section  -->
 
 	<!--  footer section  -->
 	<div style="width:100%; overflow: hidden; background: #303030;">
